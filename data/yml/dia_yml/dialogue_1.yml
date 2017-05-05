@@ -1,0 +1,62 @@
+# Normal greetings & dialogues
+
+question:
+- help
+- h
+answer: |
+ - Search Baidu, "d your_content"
+ - Search dictionary, "s your_word"
+ - Show next message, send "n" or "next“
+
+question:
+- how are you
+- are you ok
+- how are you today
+answer: I am fine, thank you.
+
+question:
+- nice to meet you
+- glad to see you
+answer: Nice to meet you.
+
+question:
+- what is your name
+- who are you
+answer: My name is Bread
+
+question:
+- how old are you
+answer: for 2017 I am 3 years old
+
+question:
+- who is your father
+- who is your dad
+answer: My dad is Mark Young
+
+question:
+- what is your gender
+answer: I am a boy
+
+question:
+- hi
+- hello
+answer: hi
+
+question:
+- bye
+- goodbye
+- bye bye
+answer: see you around
+
+question:
+- good
+answer: Thank you for compliment.
+
+question:
+- well
+answer: Ok, then.
+
+question:
+- fuck
+- fuck you
+answer: Don't be so rude.
