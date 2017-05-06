@@ -12,7 +12,7 @@
 * Make sure you have installed python3, django, pyaml and pydblite.
 * Run console.py to talk with Bread-AI.
 
-## How to connect to WeChat platform
+## Connect to WeChat platform
 * Edit server/server/settings.py, add your public ip address to ALLOWED_HOSTS, For example:
 >ALLOWED_HOSTS = [
 >    '11.75.120.83',
