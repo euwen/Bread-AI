@@ -111,13 +111,9 @@ class chat:
         return res
 
     def private_response(self,input_str):
-        if re.match(u'^(note|Note) .*$', input_str):
-            content = re.sub(u'^(note|Note) ','',input_str)
-            res = core.misc.note(content)
-        else:
-            res = self.response(input_str)
-            if res == self.dont_know:
-                res = self._bot.private_response(input_str)
+        res = self.response(input_str)
+        if res == self.dont_know:
+            res = self._bot.private_response(input_str)
         if not res:
             res = self.dont_know
         res = core.white_board().check(res)

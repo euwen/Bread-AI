@@ -1,5 +1,5 @@
 # 
-# This is misc functions
+# This are misc functions
 # 
 import os, sys
 import urllib.parse, urllib.request
@@ -10,20 +10,27 @@ def baiduSearch(keyword):
     p = {'wd': keyword}
     return "http://www.baidu.com/s?"+urllib.parse.urlencode(p)
 
-def note(Str):
-    fileDir = '/home/mark/lab/bread/log/notes.txt'
-    thisTime = time.strftime('[%Y-%m-%d %H:%M:%S] ',time.localtime())
-    text = thisTime + Str
-    f = open(fileDir,'a')
+def write_log(input_str):
+    current_dir = os.path.dirname(__file__)
+    current_dir_list = current_dir.split('/')
+    current_dir_list.pop()
+    upper_dir_list = current_dir_list
+    upper_dir = ''
+    for path in upper_dir_list:
+        upper_dir += path + r'/'
+    log_dir = upper_dir + r'data/log.txt'
+    this_time = time.strftime('[%Y-%m-%d %H:%M:%S] ',time.localtime())
+    text = this_time + input_str
+    f = open(log_dir,'a')
     f.write(text + '\n')
     f.close()
     return text
 
 def printLog(Str): 
-    thisTime = time.strftime('[%Y-%m-%d %H:%M:%S] ',time.localtime())
-    print(thisTime + str(Str))
+    this_time = time.strftime('[%Y-%m-%d %H:%M:%S] ',time.localtime())
+    print(this_time + str(Str))
 
-def get_home_ip():
+def get_public_ip():
     reg = 'fk="\d+\.\d+\.\d+\.\d+" '
     url = 'http://www.baidu.com/s?wd=gongwangip'
     result = re.search(reg, str(urllib.request.urlopen(url).read())).group(0)

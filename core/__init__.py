@@ -6,12 +6,12 @@ class white_board():
     def __init__(self):
         self.max_words = 140
         current_dir = os.path.dirname(__file__)
-        self.wb_txt = current_dir + r'/log/white_board.txt'
+        self.wb_dir = current_dir + r'/white_board.txt'
         self.next_signal = r' ....'
         self.split_signal = r'/// '
 
     def _erase(self):
-        wb = open(self.wb_txt,'w')
+        wb = open(self.wb_dir,'w')
         wb.close()
     
     def _split(self,text):
@@ -19,13 +19,13 @@ class white_board():
         if len(text) % self.max_words != 0:
             all_blocks += 1
         current_block = 1
-        wb = open(self.wb_txt,'w')
+        wb = open(self.wb_dir,'w')
         wb.writelines([str(all_blocks)+self.split_signal, str(current_block)+self.split_signal])
         wb.writelines([text[i:i+self.max_words]+self.split_signal for i in range(0,len(text),self.max_words)])
         wb.close()
 
     def read(self):
-        rb = open(self.wb_txt,'r')
+        rb = open(self.wb_dir,'r')
         list = rb.read().split(self.split_signal)
         for i in range(len(list)):
             if list[i] == '' or list[i] == '\n':
@@ -39,7 +39,7 @@ class white_board():
             if current_block < all_blocks:
                 res = list[current_block+1] + self.next_signal
                 list[1] = str(current_block+1)+self.split_signal
-                wb = open(self.wb_txt,'w')
+                wb = open(self.wb_dir,'w')
                 wb.writelines(list)
                 wb.close()
             elif current_block == all_blocks:
