@@ -2,6 +2,8 @@
 * Bread-AI is a pure-Python chatbot with artificial intelligence, based on WeChat platform, to help people live better. 
 * Current version: 1.0.1
 
+![bread-ai](bread-ai.jpg)
+
 ## Folder explain
 * console.py: The console of Bread-AI for testing on the terminal.
 * core/: Contains the core code of Bread-AI
@@ -43,4 +45,5 @@
 
 ## To know more
 * Author: Mark Young
+* WeChat Official Accounts: Bread-AI
 * Email: ideamark@qq.com
