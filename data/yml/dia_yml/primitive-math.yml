@@ -1,0 +1,92 @@
+question: 
+- aimlequal equal
+answer: LEARNEQUAL 
+
+question: 
+- learnequal
+answer: True
+  
+question: 
+- testequal
+answer: False
+  
+question: 
+- successor 0
+answer: 1
+
+question: 
+- successor 1
+answer: 2
+
+question: 
+- successor 2
+answer: 3
+
+question: 
+- successor 3
+answer: 4
+
+question: 
+- successor 4
+answer: 5
+
+question: 
+- successor 5
+answer: 6
+
+question: 
+- successor 6
+answer: 7
+
+question: 
+- successor 7
+answer: 8
+
+question: 
+- successor 8
+answer: 9
+
+question: 
+- successor 9
+answer: 10
+
+question: 
+- successor 9
+answer: SUCCESSOR  0
+
+question: 
+- successor
+answer: SUCCESSOR 
+
+question: 
+- successor 9 9
+answer: SUCCESSOR  0 0
+
+question: 
+- successor 9 9 9
+answer: SUCCESSOR  0 0 0
+
+question: 
+- successor
+answer: SUCCESSOR  
+
+question: 
+- successor
+answer: 0
+
+question: 
+- successor
+answer: 0
+
+question: 
+- successor
+answer: 0
+
+question: 
+- add 1 plus
+answer: SUCCESSOR 
+
+question: 
+- add plus
+answer: PREDECESSOR 
+

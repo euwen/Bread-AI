@@ -1,0 +1,12 @@
+# Windows question & answers
+
+question:
+- can not access windows installer server
+answer: Open terminal, enter "msiexec /unregisteru", then enter "msiexec /regserver".
+
+question:
+- how to cheat in half life
+answer: |
+ - sv_cheat 1
+ - god (God mode), impulse 101 (All weapons)
+

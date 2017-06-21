@@ -3,6 +3,7 @@ import os,sys
 import re
 import yaml
 import pydblite
+import re
 
 def insert_to_db(db_name, data_dir):
     # Init database
@@ -17,15 +18,17 @@ def insert_to_db(db_name, data_dir):
         if os.path.splitext(data_file)[1] != '.yml': continue
         print('Reading %s and insert data...' % data_file)
         f = open(data_dir+data_file, 'r')
-        data = f.read().split('\n\n')
+        readStr = f.read()
+        readStr = re.sub(r'\n +\n', '\n\n', readStr)
+        data = readStr.split('\n\n')
         # Insert the data into database
         try:
             for d in data:
                 dd = yaml.load(d)
+                print('\n[%s]\n%s' % (data_file, d))
                 if not dd: continue
                 for q in dd['question']:
                     db.insert(question = q, answer = dd['answer'])
-                    #print('question = ', q, 'answer = ', dd['answer'])
         except:
             raise
     db.create_index('question')
@@ -35,3 +38,4 @@ if __name__ == '__main__':
     insert_to_db(r'./db/nom_db_1', r'./yml/nom_yml/')
     insert_to_db(r'./db/dia_db_1', r'./yml/dia_yml/')
     insert_to_db(r'./db/sec_db_1', r'./yml/sec_yml/')
+    print('All is OK!')
