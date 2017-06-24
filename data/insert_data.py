@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-import os,sys
+import os
+import sys
 import re
 import yaml
 import pydblite
@@ -10,7 +11,7 @@ def insert_to_db(db_name, data_dir):
     db = pydblite.Base(db_name)
     if db.exists():
         os.remove(db_name)
-    db.create('question', 'answer')
+    db.create('question', 'answer', 'random')
     # Read the yml files
     data_file_list = os.listdir(data_dir)
     for data_file in data_file_list:
@@ -28,7 +29,10 @@ def insert_to_db(db_name, data_dir):
                 print('\n[%s]\n%s' % (data_file, d))
                 if not dd: continue
                 for q in dd['question']:
-                    db.insert(question = q, answer = dd['answer'])
+                    if 'answer' in dd:
+                        db.insert(question=q, answer=dd['answer'], random=None)
+                    elif 'random' in dd:
+                        db.insert(question=q, answer=None, random=dd['random'])
         except:
             raise
     db.create_index('question')

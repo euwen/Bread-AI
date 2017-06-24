@@ -1,9 +1,12 @@
-import os,sys
+import os
+import sys
 import re
 import core
 import pydblite
+import random
 
 class brain:
+
     def __init__(self):
         current_dir = os.path.dirname(__file__)
         current_dir_list = current_dir.split('/')
@@ -57,13 +60,19 @@ class brain:
 
     def response(self, input_str):
         input_str = self._init_input(input_str)
-        result = self.nom_db_1(question = input_str)
+        result = self.nom_db_1(question=input_str)
         if not result:
-            result = self.dia_db_1(question = input_str)
+            result = self.dia_db_1(question=input_str)
             if not result:
                 result = self._find_question(self.nom_db_1, input_str)
             else:
-                result = result[0]['answer']
+                if not result[0]['random']:
+                    result = result[0]['answer']
+                else:
+                    result = result[0]['random']
+                    result = result.replace('- ','')
+                    result = result.split('\n')
+                    result = random.choice(result)
         else:
             result = result[0]['answer']
         return result
@@ -80,6 +89,7 @@ class brain:
         return result
 
 class chat:
+
     def __init__(self):
         self._bot = core.bot.brain()
         self.dont_know = "Sorry, I don't know."

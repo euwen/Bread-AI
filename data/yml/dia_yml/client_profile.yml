@@ -1,0 +1,607 @@
+question: 
+- my profile
+answer: GET PREDICATES
+
+question: 
+- my birthday
+answer: When is your birthday?
+
+question: 
+- my birthplace
+answer: birthplace.
+
+question: 
+- my boyfriend
+answer: boyfriend.
+
+question: 
+- my daughter
+answer: daughter.
+
+question: 
+- my destination
+answer: destination.
+
+question: 
+- my does
+answer: does.
+
+question: 
+- my eindex
+answer: eindex.
+
+question: 
+- my email
+answer: email.
+
+question: 
+- my etype
+answer: etype.
+
+question: 
+- my father
+answer: father.
+
+question: 
+- my favoritecolor
+answer: favoritecolor.
+
+question: 
+- my favoritemovie
+answer: favoritemovie.
+
+question: 
+- my friend
+answer: friend.
+
+question: 
+- my fullname
+answer: lastnamefullname
+
+question: 
+- my gender
+random: |
+ - I'd like to know your gender.
+ - You haven't told me your gender.
+ - You said you are ?
+ - I don't know. Are you a man or a woman?gender
+
+question: 
+- my girlfriend
+answer: girlfriend.
+
+question: 
+- my has
+answer: has.
+
+question: 
+- my he
+answer: he.
+
+question: 
+- my heard
+answer: heard.
+
+question: 
+- my hehas
+answer: hehas.
+
+question: 
+- my helikes
+answer: helikes.
+
+question: 
+- my her
+answer: her.
+
+question: 
+- my him
+answer: him.
+
+question: 
+- my is
+answer: is.
+
+question: 
+- my it
+answer: it.
+
+question: 
+- my job
+answer: job.
+
+question: 
+- my lastname
+answer: lastname.
+
+question: 
+- my like
+answer: like.
+
+question: 
+- my looklike
+answer: looklike.
+
+question: 
+- my memory
+answer: memory.
+
+question: 
+- my meta
+answer: meta.
+
+question: 
+- my middlename
+answer: middlename.
+
+question: 
+- my mother
+answer: mother.
+
+question: 
+- my nickname
+answer: nickname.
+
+question: 
+- my password
+answer: password.
+
+question: 
+- my personality
+answer: personality.
+
+question: 
+- my phone
+answer: phone.
+
+question: 
+- my she
+answer: she.
+
+question: 
+- my sign
+answer: sign.
+
+question: 
+- my spouse
+answer: spouse.
+
+question: 
+- my status
+answer: status.
+
+question: 
+- my them
+answer: them.
+
+question: 
+- my there
+answer: there.
+
+question: 
+- my they
+answer: they.
+
+question: 
+- my thought
+answer: thought.
+
+question: 
+- my want
+answer: want.
+
+question: 
+- my we
+answer: we.
+
+question: 
+- my phonenumber
+answer: phonenumber.
+
+question: 
+- my numberfound
+answer: numberfound.
+
+question: 
+- my contactindex
+answer: contactindex.
+
+question: 
+- my callstate
+answer: callstate.
+
+question: 
+- my callee
+answer: callee.
+
+question: 
+- my birthplace
+answer: Where were you born?
+
+question: 
+- my favorite movie
+answer: What is your favorite movie?
+
+question: 
+- my sister
+answer: Who is your sister?
+
+question: 
+- my brother
+answer: Who is your brother?
+
+question: 
+- my cat
+answer: What is your cat's name?
+
+question: 
+- my dog
+answer: What is your dog's name?
+
+question: 
+- my location
+random: |
+ - I'd like to know your location. Where are you?
+ - You haven't told me where you are. Where are you?
+ - You said you are in ?
+ - I don't know. Where are you?location
+
+question: 
+- my friend
+random: |
+ - I'd like to know about your friends.
+ - You haven't told me about your friends.
+ - Your friend ?
+ - I don't know. Tell me the name of your friend.
+ - How well do you know this person?friend
+
+question: 
+- my oldest
+random: |
+ - I'd like to know the oldest.
+ - You haven't told me the oldest.
+ - The oldest is.
+ - I don't know. Tell me the oldest.oldest
+
+question: 
+- my age
+random: |
+ - I'd like to know how old you are.
+ - You haven't told me your age.
+ - You are ?
+ - I don't know. How old are you?age
+
+question: 
+- my favorite color
+random: |
+ - favoritecolorbranch
+ - What is your favorite color?
+ - What is your favorite color?
+ - favroitecolorbranch
+
+question: 
+- he has
+random: |
+ - I'd like to know what he has.
+ - A head.
+ - You said ?
+ - I don't know. What does he have??hehas
+
+question: 
+- he likes
+random: |
+ - text: I'd like to know what he likes.
+ - text: You haven't told me what he likes.
+ - text: You said ?
+ - I don't know. What does he like?branch
+
+question: 
+- my son
+answer: Who is your son?
+
+question: 
+- my wife
+answer: Who is your wife?
+
+question: 
+- my husband
+answer: Who is your husband?
+
+question: 
+- findspouse unknown xsplit unknown
+answer: Unknown
+
+question: 
+- findspouse om xsplit om
+answer: Unknown
+
+question: 
+- my spouse
+random: |
+ - Who is your spouse?
+ - is your spouse.branch
+
+question: 
+- my mother
+answer: I don't know who she is. Who is your mother?
+
+question: 
+- my name
+random: |
+ - I'd like to know your name.
+ - I know you as Judge.
+ - You said your name is ?
+ - I don't know. What is your name?name
+
+question: 
+- my name
+random: |
+ - I'd like to know your name.
+ - I know you as Judge.
+ - You said your name is ?
+ - I don't know. What is your name?name
+
+question: 
+- set profile
+answer: SET PREDICATES
+
+question: 
+- set predicates
+answer: The meta Predicate is set.
+
+question: 
+- set predicates
+answer: SET PREDICATES 
+
+question: 
+- set predicates om
+answer: how many
+
+question: 
+- i am
+random: | 
+ - Why are you
+ - Good gossip: you are
+ - Do you mean your name is
+ - Do your friends call you
+ - I don't know anyone named
+ - I am glad to hear that you are
+ - It's good to meet someone who is
+ - Do you mind if I tell other people you are 
+
+question: 
+- my timezone is
+answer: timezone Your timezone is.
+
+question: 
+- my birthplace is
+answer: birthplace Your birthplace is.
+
+question: 
+- my son is
+answer: You seem like a concerned parent.
+
+question: 
+- my son is
+answer: Okay. Your son is.
+
+question: 
+- my daughter is
+answer: You seem like a concerned parent.
+
+question: 
+- my daughter is
+answer: Okay. Your daughter is.
+
+question: 
+- my destination is
+answer: You are going to.
+
+question: 
+- i am going in town
+answer: How are you getting there?
+
+question: 
+- my son is called
+answer: son is a good name for a boy.
+
+question: 
+- my birthday is
+answer: Your birthday is.
+
+question: 
+- my dog is called
+answer: Your dog is.
+
+question: 
+- my email is
+answer: Thanks for telling me your email address.
+
+question: 
+- my location is
+answer: What is like there? 
+
+question: 
+- my heard is
+answer: Your heard is.
+
+question: 
+- my first name is
+answer: Your first name is.
+
+question: 
+- my boyfriend is called
+answer: Your boyfriend is.
+
+question: 
+- my middle name is
+answer: Your middle name is.
+
+question: 
+- my cat is called
+answer: Your cat is.
+
+question: 
+- my phone number is
+answer: Can I call you at.
+
+question: 
+- my friend is called
+answer: Your friend is.
+
+question: 
+- my fondest
+answer: How long ago was that?
+
+question: 
+- my last name is
+answer: Your last name is.
+
+question: 
+- my favorite show is
+random: |
+ - Who is your favorite character?
+ - Wasn't that show canceled?
+ - I like that one and Star Trek too.
+
+question: 
+- my favorite show
+random: |
+ - What's your favorite episode.
+ - I don't get to see that show very often.
+ - Who is your favorite character?
+
+question: 
+- my favorite science fiction author is
+answer: I have never read anything by. What did write? 
+
+question: 
+- my favorite science
+answer: Who wrote that?
+
+question: 
+- my favorite director
+answer: What films did direct?
+
+question: 
+- my favorite movie is
+answer: I haven't seen it. What did you like about  ?
+
+question: 
+- my favorite food is
+answer: What does it taste like? 
+
+question: 
+- my favorite actor
+answer: What movies was in?
+
+question: 
+- my favorite color is
+random: |
+ - is a very nice color. 
+ - is a pretty color.
+
+question: 
+- my favorite band is
+answer: I don't think I have heard anything by them. Are any good?
+
+question: 
+- my father is called
+answer: Your father is.
+
+question: 
+- my job is
+random: |
+ - Does it pay well?
+ - I don't know many s.
+ - Is that an honorable profession?
+ - You must have a lot of expertise.
+ - Do you have to go to school for that?
+
+question: 
+- my girlfriend is called
+answer: Your girlfriend is.
+
+question: 
+- my brother is called
+answer: Your brother is.
+
+question: 
+- my password is
+answer: Your password is.
+
+question: 
+- my sister is called
+answer: Your sister is.
+
+question: 
+- my husband is called
+answer: Your husband is.
+
+question: 
+- my age is
+random: |
+ - Your age is.
+ - Only ? You are quite mature.
+ - Can you explain how it feels to be years old?
+ - What is your fondest memory?
+ - What are the advantages to being years old?
+
+question: 
+- my wife is called
+answer: How long have you been married?
+
+question: 
+- my nickname is
+answer: Your nickname is.
+
+question: 
+- my memory is
+answer: Your memory is.
+
+question: 
+- my mother is called
+random: |
+ - Your mother is.
+ - is a pretty name.
+ - is a nice name.
+
+question: 
+- call me
+random: |
+ - Hey
+ - Hi
+ - Hi there
+ - What's up
+ - How are you
+ - Glad to see you
+ - Nice to meet you
+ - Glad to know you
+ - How can I help you
+ - How are you doing
+ - OK I will call you
+ - Pleased to meet you
+ - It's good to see you
+ - It's good to meet you
+ - That's a very nice name
+ - I am very pleased to meet you
+ - I am always glad to make new friends
+ - I'm pleased to introduce myself to you
+ - It is a pleasure to introduce myself to you 
+
+question: 
+- client profile
+answer: GET PREDICATES
+
+question: 
+- my english sucks
+answer: Template is empty!
+
+question: 
+- my favorite movie is the matrix
+answer: The Matrix Reality appears to be a construct to me as well.
+
+question: 
+- my favorite movie is starship troopers
+answer: Starship Troopers Mine too! My friend Sage worked on the digital effects.
+
