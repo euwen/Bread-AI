@@ -12,14 +12,15 @@ sys.path.append('.')
 import core
 
 class WeChat(View):
+
     @csrf_exempt
     def dispatch(self, *args, **kwargs):
         return super(WeChat, self).dispatch(*args, **kwargs)
         
     def _is_super(self, name):
-        super_users = [ \
-            'ot-0qxExJbukKrvtPmLDXVJ5vkPM' \
-        ]
+        super_users = [ 
+            'ot-0qxExJbukKrvtPmLDXVJ5vkPM',
+            ]
         for user in super_users:
             if user == name:
                 return True
@@ -31,7 +32,6 @@ class WeChat(View):
         timestamp = request.GET.get('timestamp', None)
         nonce = request.GET.get('nonce', None)
         echostr = request.GET.get('echostr', None)
-
         list = [token,timestamp,nonce]
         list.sort()
         hashcode = ''.join([s for s in list])

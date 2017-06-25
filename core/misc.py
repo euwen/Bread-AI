@@ -1,6 +1,5 @@
-# 
 # This are misc functions
-# 
+
 import os, sys
 import urllib.parse, urllib.request
 import time
@@ -38,6 +37,9 @@ def get_public_ip():
     return result
 
 def translate(word):
+    if re.match(u'.*[\u4e00-\u9fa5].*', word):
+        p = {'wd': word}
+        return "http://dict.baidu.com/s?"+urllib.parse.urlencode(p)
     result1 = os.popen('sdcv -n ' + word).readlines()
     if not re.match(u'^Found 1 items.*', result1[0]):
         return '[Not Found]'

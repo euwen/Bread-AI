@@ -1,3 +1,5 @@
+# This is the core function of Bread
+
 import os
 import sys
 import re
@@ -8,39 +10,30 @@ import random
 class brain:
 
     def __init__(self):
-        current_dir = os.path.dirname(__file__)
-        current_dir_list = current_dir.split('/')
-        current_dir_list.pop()
-        data_dir = ''
-        for dir in current_dir_list:
-            data_dir += dir + '/'
-        nom_db_1_dir = data_dir +'data/db/nom_db_1'
-        sec_db_1_dir = data_dir +'data/db/sec_db_1'
-        dia_db_1_dir = data_dir +'data/db/dia_db_1'
-        self.nom_db_1 = pydblite.Base(nom_db_1_dir)
-        self.sec_db_1 = pydblite.Base(sec_db_1_dir)
-        self.dia_db_1 = pydblite.Base(dia_db_1_dir)
-        if self.nom_db_1.exists(): self.nom_db_1.open()
-        if self.sec_db_1.exists(): self.sec_db_1.open()
-        if self.dia_db_1.exists(): self.dia_db_1.open()
+        cur_dir = os.path.dirname(__file__)
+        cur_dir_list = cur_dir.split('/')
+        cur_dir_list.pop()
+        data_dir = '/'.join(cur_dir_list)
+        nom_db_dir = data_dir + r'/data/db/nom_db'
+        sec_db_dir = data_dir + r'/data/db/sec_db'
+        dia_db_dir = data_dir + r'/data/db/dia_db'
+        self.nom_db = pydblite.Base(nom_db_dir)
+        self.sec_db = pydblite.Base(sec_db_dir)
+        self.dia_db = pydblite.Base(dia_db_dir)
+        if self.nom_db.exists(): self.nom_db.open()
+        if self.sec_db.exists(): self.sec_db.open()
+        if self.dia_db.exists(): self.dia_db.open()
 
     def _init_input(self, input_str):
-        # Initialize the input string
         input_str = input_str.lower()
-        # Change string to list
         input_str_list = list(input_str)
         right_letters = 'abcdefghijklmnopqrstuvwxyz0123456789 '
-        # Check the list
         for i, letter in enumerate(input_str_list):
             if letter in right_letters:
                 continue
             else:
                 input_str_list[i] = ' '
-        # Change list back to string
-        input_str = ''
-        for letter in input_str_list:
-            input_str += letter
-        # Delete useless spaces and only left single spaces
+        input_str = ''.join(input_str_list)
         input_str = re.sub(r'\s{2,}',' ',input_str)
         input_str = re.sub(r'(^ +| +$)','',input_str)
         return input_str
@@ -60,33 +53,33 @@ class brain:
 
     def response(self, input_str):
         input_str = self._init_input(input_str)
-        result = self.nom_db_1(question=input_str)
-        if not result:
-            result = self.dia_db_1(question=input_str)
-            if not result:
-                result = self._find_question(self.nom_db_1, input_str)
+        res = self.nom_db(question=input_str)
+        if not res:
+            res = self.dia_db(question=input_str)
+            if not res:
+                res = self._find_question(self.nom_db, input_str)
             else:
-                if not result[0]['random']:
-                    result = result[0]['answer']
+                if not res[0]['random']:
+                    res = res[0]['answer']
                 else:
-                    result = result[0]['random']
-                    result = result.replace('- ','')
-                    result = result.split('\n')
-                    result = random.choice(result)
+                    res = res[0]['random']
+                    res = res.replace('- ','')
+                    res = res.split('\n')
+                    res = random.choice(res)
         else:
-            result = result[0]['answer']
-        return result
+            res = res[0]['answer']
+        return res
 
     def private_response(self, input_str):
         input_str = self._init_input(input_str)
-        result = self.sec_db_1(question = input_str)
-        if not result:
-            result = self._find_question(self.sec_db_1, input_str)
-            if not result:
-                result = self.response(input_str)
+        res = self.sec_db(question = input_str)
+        if not res:
+            res = self._find_question(self.sec_db, input_str)
+            if not res:
+                res = self.response(input_str)
         else:
-            result = result[0]['answer']
-        return result
+            res = res[0]['answer']
+        return res
 
 class chat:
 
@@ -114,7 +107,6 @@ class chat:
                 if re.match(u'[\u4e00-\u9fa5]', s):
                     return 'Sorry, I speak English only'
             res = self._bot.response(input_str)
-            #res = input_str
         if not res:
             res = self.dont_know
         res = core.white_board().check(res)

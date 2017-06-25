@@ -39,7 +39,7 @@ def insert_to_db(db_name, data_dir):
     print(db_name, ' data insert OK!')
 
 if __name__ == '__main__':
-    insert_to_db(r'./db/nom_db_1', r'./yml/nom_yml/')
-    insert_to_db(r'./db/dia_db_1', r'./yml/dia_yml/')
-    insert_to_db(r'./db/sec_db_1', r'./yml/sec_yml/')
+    insert_to_db(r'./db/nom_db', r'./yml/nom_yml/')
+    insert_to_db(r'./db/dia_db', r'./yml/dia_yml/')
+    insert_to_db(r'./db/sec_db', r'./yml/sec_yml/')
     print('All is OK!')

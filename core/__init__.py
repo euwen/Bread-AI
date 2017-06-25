@@ -3,6 +3,7 @@ from . import misc
 import os, re
 
 class white_board():
+
     def __init__(self):
         self.max_words = 140
         current_dir = os.path.dirname(__file__)
