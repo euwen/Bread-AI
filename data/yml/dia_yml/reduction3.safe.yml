@@ -6904,7 +6904,10 @@ answer: Tell me another
 
 question: 
 - honto ni
-answer: True
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - antidisestablishmentarianism

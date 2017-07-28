@@ -17,7 +17,6 @@ def insert_to_db(db_name, data_dir):
     for data_file in data_file_list:
         # Check the extension
         if os.path.splitext(data_file)[1] != '.yml': continue
-        print('Reading %s and insert data...' % data_file)
         f = open(data_dir+data_file, 'r')
         readStr = f.read()
         readStr = re.sub(r'\n +\n', '\n\n', readStr)
@@ -32,10 +31,8 @@ def insert_to_db(db_name, data_dir):
                     if 'answer' in dd:
                         ans = dd['answer']
                         if type(ans) == bool:
-                            if ans == True:
-                                ans = 'Yes'
-                            else:
-                                ans = 'No'
+                            print('\n[Error] Bool value\n[%s]\n%s' % (data_file, d))
+                            sys.exit(1)
                         db.insert(question=q, answer=ans, random=None)
                     elif 'random' in dd:
                         db.insert(question=q, answer=None, random=dd['random'])

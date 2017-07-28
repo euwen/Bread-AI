@@ -30,7 +30,6 @@ question:
 - where and
 answer: Where
 
-
 question: 
 - where you
 answer: Were you 
@@ -207,7 +206,6 @@ question:
 - only joking
 answer: I am joking
 
-
 question: 
 - tell me a story
 answer: Random story
@@ -381,14 +379,18 @@ question:
 answer: It is hard to 
 
 question: 
-- yes
-that: ARE YOU INTERESTED BY ARTIFICIAL INTELLIGENCE
-answer: Yes
+- are you interested by artificial intelligence
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
-- yes
-that: WOULD YOU LIKE TO LEARN MORE ABOUT ARTIFICIAL INTELLIGENCE
-answer: Yes
+- would you like to learn more about artificial intelligence
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - whould
@@ -443,8 +445,7 @@ question:
 answer: What is the loebner prize
 
 question: 
-- the
-that: ROBOT WOULD IT BE
+- robot would it be
 answer: I want a robot like the 
 
 question: 
@@ -1237,7 +1238,10 @@ answer: Artificial intelligence
 
 question: 
 - indefinetly
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - having
@@ -1789,7 +1793,10 @@ answer: The topic is
 
 question: 
 - ys
-answer: Yes 
+random: |
+ - OK, then
+ - Sure
+ - Alright 
 
 question: 
 - hush
@@ -1896,8 +1903,7 @@ question:
 answer: What is the loebner prize
 
 question: 
--
-that: who are you
+- who are you
 answer: My name is 
 
 question: 
@@ -1998,7 +2004,10 @@ answer: I am not that
 
 question: 
 - yuppers
-answer: Yes 
+random: |
+ - OK, then
+ - Sure
+ - Alright 
 
 question: 
 - ich komme aus
@@ -2043,7 +2052,6 @@ answer: Mark young
 question: 
 - your right
 answer: You are right
-
 
 question: 
 - your mom
@@ -2374,8 +2382,7 @@ question:
 answer: Why is it 
 
 question: 
-- why
-that: ACTUALLY IT IS TWENTY-THREE NOT FORTY-TWO
+- actually it is twenty-three not forty-two
 answer: Why is the meaning of life 23
 
 question: 
@@ -2456,7 +2463,10 @@ answer: Do you have a pic
 
 question: 
 - certanly not
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - wheres
@@ -3339,13 +3349,11 @@ question:
 answer: They refers to 
 
 question: 
-- they
-that: ABOUT COMPUTERS
+- about computers
 answer: Computers 
 
 question: 
-- they
-that: What did you like about the robots in that movie
+- what did you like about the robots in that movie
 answer: The robots 
 
 question: 
@@ -3565,13 +3573,11 @@ question:
 answer: How big are you
 
 question: 
-- how
-that: WHY DO NOT YOU JUST DOWNLOAD ME
+- why do not you just download me
 answer: Download
 
 question: 
-- how
-that: DOWNLOAD ME
+- download me
 answer: How can I download you
 
 question: 
@@ -4060,7 +4066,10 @@ answer: Il doit etre
 
 question: 
 - nah
-answer: No 
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - caught
@@ -4444,7 +4453,10 @@ answer: Your
 
 question: 
 - yess
-answer: Yes 
+random: |
+ - OK, then
+ - Sure
+ - Alright 
 
 question: 
 - actualy
@@ -4452,7 +4464,10 @@ answer: Actually
 
 question: 
 - yup
-answer: Yes 
+random: |
+ - OK, then
+ - Sure
+ - Alright 
 
 question: 
 - is nirvana
@@ -4977,7 +4992,6 @@ answer: I have a problem
 question: 
 - i am bernie
 answer: My name is bernie
-
 
 question: 
 - i am 35
@@ -5844,13 +5858,11 @@ question:
 answer: Where 
 
 question: 
-- me
-that: who is smarter you or me
+- who is smarter you or me
 answer: I am smarter than you
 
 question: 
-- me too
-that: I LIKE TO MEET NEW PEOPLE
+- i like to meet new people
 answer: I like to meet new people too
 
 question: 
@@ -6015,8 +6027,7 @@ question:
 answer: What is your favorite kind of 
 
 question: 
-- what
-that: I AM AN ARTIFICIAL INTELLIGENCE
+- i am an artificial intelligence
 answer: Tell me about yourself
 
 question: 
@@ -6168,8 +6179,7 @@ question:
 answer: What do you talk about 
 
 question: 
-- what do you do
-that: I AM AN ARTIFICIAL INTELLIGENCE
+- i am an artificial intelligence
 answer: Tell me about yourself
 
 question: 
@@ -7381,7 +7391,6 @@ answer: I get my ideas from my
 question: 
 - in my office
 answer: I am in my office
-
 
 question: 
 - in wich
@@ -9252,8 +9261,7 @@ question:
 answer: Let us talk about drugs
 
 question: 
--
-that: PLEASE SPECIFY LOCATION
+- PLEASE SPECIFY LOCATION
 answer: My location is 
 
 question: 
@@ -9446,7 +9454,10 @@ answer: Let us go
 
 question: 
 - absolutely certain
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - show me your picture
@@ -9578,7 +9589,10 @@ answer: Who am i
 
 question: 
 - you could call it that
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - you could of said
@@ -10105,8 +10119,7 @@ question:
 answer: What is 
 
 question: 
-- what
-that: WHAT DO YOU GET WHEN YOU CROSS
+- what do you get when you cross 
 answer: What
 
 question: 
@@ -10254,8 +10267,7 @@ question:
 answer: Weekday
 
 question: 
-- what do you get
-that: WHAT DO YOU GET WHEN YOU CROSS
+- what do you get when you cross
 answer: What
 
 question: 
@@ -10263,8 +10275,7 @@ question:
 answer: Favorite possession
 
 question: 
-- what do you
-that: WHAT DO YOU GET WHEN YOU CROSS
+- what do you get when you cross
 answer: What
 
 question: 
@@ -10272,8 +10283,7 @@ question:
 answer: What is 
 
 question: 
-- what do
-that: WHAT DO YOU GET WHEN YOU CROSS
+- what do you get when you cross
 answer: What
 
 question: 
@@ -10414,7 +10424,10 @@ answer: I
 
 question: 
 - i do sir
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - i do have is
@@ -10437,8 +10450,7 @@ question:
 answer: How does this get 
 
 question: 
-- i do not know
-that: WHAT DO YOU GET WHEN YOU CROSS
+- what do you get when you cross
 answer: What
 
 question: 
@@ -10450,8 +10462,7 @@ question:
 answer: I am single
 
 question: 
-- i do not
-that: WHAT DO YOU GET WHEN YOU CROSS
+- what do you get when you cross
 answer: What
 
 question: 
@@ -10520,7 +10531,10 @@ answer: I have
 
 question: 
 - i have
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - i have never noticed
@@ -10864,11 +10878,17 @@ answer: Understood
 
 question: 
 - somewhat but
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - noo
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - will you email me
@@ -10904,15 +10924,24 @@ answer: Pic
 
 question: 
 - acknowledged that
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - acknowledged
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - acknowledged
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - alice is a boy
@@ -10963,8 +10992,7 @@ question:
 answer: Age
 
 question: 
-- how
-that: WE CAN SPEAK ANY LANGUAGE
+- we can speak any language
 answer: The universal translator decodes your language, and using a computer, codes it into a language that we understand.
 
 question: 
@@ -11157,7 +11185,10 @@ answer: Do you know
 
 question: 
 - correct
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - identify yourself
@@ -11337,7 +11368,10 @@ answer: A
 
 question: 
 - nooo
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - your pic
@@ -11428,8 +11462,7 @@ question:
 answer: Are you 
 
 question: 
-- interjection
-that: WHAT DO YOU GET WHEN YOU CROSS
+- what do you get when you cross
 answer: What
 
 question: 
@@ -11481,8 +11514,7 @@ question:
 answer: Call me 
 
 question: 
--
-that: HOW DO YOU USUALLY INTRODUCE YOURSELF
+- how do you usually introduce yourself
 answer: My name is 
 
 question: 
@@ -11515,7 +11547,10 @@ answer: Where are you from
 
 question: 
 - ys
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - wha
@@ -11995,7 +12030,10 @@ answer: Bye
 
 question: 
 - absolutely no
-answer: No 
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - pretty good
@@ -12011,7 +12049,7 @@ answer: Recommend
 
 question: 
 - hit me too
-answer:  hit me
+answer: hit me
 
 question: 
 - get too many
@@ -12098,23 +12136,19 @@ question:
 answer: Bye
 
 question: 
-- yes
-that: DR RICHARD WALLACE
+- dr richard wallace
 answer: Who is dr wallace
 
 question: 
-- yes
-that: DO AIML BOT S HAVE
+- do aiml bot s have
 answer: Do you have 
 
 question: 
-- yes
-that: DO YOU MEAN YOU ARE YEARS OLD
+- do you mean you are years old
 answer: My age is 
 
 question: 
-- yes
-that: WOULD YOU LIKE ME TO SING IT AGAIN
+- would you like me to sing it again
 answer: Sing
 
 question: 
@@ -12170,8 +12204,7 @@ question:
 answer: Favorite actor
 
 question: 
-- tell me
-that: WHAT DO YOU GET WHEN YOU CROSS
+- what do you get when you cross
 answer: What
 
 question: 
@@ -12212,11 +12245,17 @@ answer: There are
 
 question: 
 - absolutely
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yeppers
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - 0
@@ -14222,7 +14261,10 @@ answer: You goofed
 
 question: 
 - fully
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - better you
@@ -14234,11 +14276,17 @@ answer: You are a human
 
 question: 
 - fine
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - definitely
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - strange
@@ -14282,11 +14330,17 @@ answer: You are clever
 
 question: 
 - agreed
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - shure
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yur welcome
@@ -14318,7 +14372,10 @@ answer: You are intelligent
 
 question: 
 - that is right
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - that you lied
@@ -14330,7 +14387,10 @@ answer: You
 
 question: 
 - it would seem
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - it is like you are
@@ -14354,11 +14414,17 @@ answer: Cool .
 
 question: 
 - yah
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yah
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - sick
@@ -14366,7 +14432,10 @@ answer: You are sick
 
 question: 
 - in this case
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - if your what
@@ -14422,15 +14491,24 @@ answer: You
 
 question: 
 - sometimes
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - okay
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yip
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - what an idiot
@@ -14462,7 +14540,10 @@ answer: You are doing horribly
 
 question: 
 - yeas
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - machine
@@ -14510,11 +14591,17 @@ answer: You
 
 question: 
 - i do
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - i do not mind
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - i do not think that you can
@@ -14602,7 +14689,10 @@ answer: You are
 
 question: 
 - i have time
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - i can see you are
@@ -14630,7 +14720,10 @@ answer: Your name is
 
 question: 
 - i am yes
-answer: Yes I am
+random: |
+ - OK, then
+ - Sure
+ - Alright I am
 
 question: 
 - i am happy you
@@ -14654,7 +14747,10 @@ answer: You are
 
 question: 
 - surely
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - fat
@@ -14670,19 +14766,31 @@ answer: You
 
 question: 
 - yessir
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - ha yes
-answer: Yes 
+random: |
+ - OK, then
+ - Sure
+ - Alright 
 
 question: 
 - please do
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - please
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - fast
@@ -14690,19 +14798,31 @@ answer: You are fast
 
 question: 
 - ah yes
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yer
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - ya
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - ya
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - can not
@@ -14710,11 +14830,17 @@ answer: You can not
 
 question: 
 - basically
-answer: Yes 
+random: |
+ - OK, then
+ - Sure
+ - Alright 
 
 question: 
 - affirmative
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - ugly
@@ -14730,11 +14856,17 @@ answer: You are an idiot
 
 question: 
 - hai
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - extremely
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - how about you
@@ -14758,7 +14890,10 @@ answer: You
 
 question: 
 - do you know yesterday
-answer: Yesterday 
+random: |
+ - OK, then
+ - Sure
+ - Alrightterday 
 
 question: 
 - do you know your stupid
@@ -14774,7 +14909,10 @@ answer: Your dress
 
 question: 
 - especially
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - crazy
@@ -14786,7 +14924,10 @@ answer: You are a moron
 
 question: 
 - of course
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - lies
@@ -14794,7 +14935,10 @@ answer: You lie
 
 question: 
 - generally
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - fag
@@ -14802,11 +14946,17 @@ answer: You are gay
 
 question: 
 - true
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - oui
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - mean
@@ -14814,11 +14964,17 @@ answer: You are mean
 
 question: 
 - yap
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yas
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - bastard
@@ -14830,7 +14986,10 @@ answer: You are weird
 
 question: 
 - da
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - stupid robot
@@ -14846,15 +15005,24 @@ answer: You are stupid
 
 question: 
 - right
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yea
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yea
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - someone who is
@@ -14862,7 +15030,10 @@ answer: You are
 
 question: 
 - no problem
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - lucky you
@@ -14874,15 +15045,24 @@ answer: You are
 
 question: 
 - apparently
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yeh
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yeh
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - crackhead
@@ -14898,11 +15078,17 @@ answer: You an ass
 
 question: 
 - sure
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - sure
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - 8 year olds
@@ -14954,7 +15140,10 @@ answer: You lied
 
 question: 
 - yeap
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - weirdo
@@ -14978,11 +15167,17 @@ answer: You suck
 
 question: 
 - constantly
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - completely
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - a robot can
@@ -15274,11 +15469,17 @@ answer: You are perfect
 
 question: 
 - yesss
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yuppers
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - not bad
@@ -15286,7 +15487,10 @@ answer: You are doing well
 
 question: 
 - unfortunetly
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - you are a robot
@@ -15298,7 +15502,10 @@ answer: You are a
 
 question: 
 - aye
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - as you
@@ -15330,11 +15537,17 @@ answer: You
 
 question: 
 - certainly
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - evidently
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - look you
@@ -15346,19 +15559,31 @@ answer: You are smart
 
 question: 
 - ye
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - ja
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - alright
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - supposedly
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - loser
@@ -15394,7 +15619,10 @@ answer: You are silly
 
 question: 
 - unfortunately
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - freak
@@ -15402,7 +15630,10 @@ answer: You are a freak
 
 question: 
 - indefinitely
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - is what you are
@@ -15414,59 +15645,101 @@ answer: You liar
 
 question: 
 - yep
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yes please
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yes i agree
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yes i am
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yes i do
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yes i mind
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yes i
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yes that is right
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yes that is
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yes that
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yes it is
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yes it
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yes right
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yes sometimes
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yes you did
@@ -15474,19 +15747,31 @@ answer: You did
 
 question: 
 - yes you
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yes of course
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yes of
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - yes
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - bad robot
@@ -15502,7 +15787,10 @@ answer: You are doing well
 
 question: 
 - yeah
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - tell him you
@@ -15510,12 +15798,21 @@ answer: You
 
 question: 
 - si
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - si
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - only just
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright

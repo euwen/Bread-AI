@@ -4,11 +4,17 @@ answer: Learnequal
 
 question: 
 - learnequal
-answer: True
+random: |
+ - OK, then
+ - Sure
+ - Alright
   
 question: 
 - testequal
-answer: False
+random: |
+ - Well
+ - So what's next?
+ - Alright
   
 question: 
 - successor 0

@@ -1,4 +1,4 @@
-# Bread-AI V1.0.4
+# Bread-AI V1.0.5
 
 ## Overview
 * Bread-AI is a pure-Python chatbot with artificial intelligence, based on WeChat platform, to help people live better. 

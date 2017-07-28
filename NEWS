@@ -19,3 +19,7 @@
 - Version 1.0.4
 - Add 87326 new dialogs
 - Fix a bug of insert_data.py
+
+2017-07-28:
+- Version 1.0.5
+- Fix the bug of bool value in data

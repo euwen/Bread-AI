@@ -13115,7 +13115,10 @@ answer: Some what?
 
 question: 
 - tell me about it
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - tell me about him

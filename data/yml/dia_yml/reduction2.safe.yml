@@ -24,7 +24,10 @@ answer: Sex
 
 question: 
 - negative
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - earth
@@ -916,7 +919,10 @@ answer: Pardon
 
 question: 
 - definitely not
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - send me some
@@ -1412,7 +1418,10 @@ answer: I am in hawaii
 
 question: 
 - non
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - new jersey
@@ -2060,7 +2069,10 @@ answer: It would not have the
 
 question: 
 - it would not
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - it certainly
@@ -2672,7 +2684,10 @@ answer: Math
 
 question: 
 - noooooo
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - same to you
@@ -2916,7 +2931,10 @@ answer: Lol
 
 question: 
 - nooooo
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - duh
@@ -2932,7 +2950,10 @@ answer: Great
 
 question: 
 - know
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - artist
@@ -3880,7 +3901,10 @@ answer: I am in pennsylvania
 
 question: 
 - nay
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - illinois
@@ -4544,7 +4568,10 @@ answer: I spend
 
 question: 
 - i suppose not
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - i saw a great
@@ -4816,7 +4843,10 @@ answer: It is not
 
 question: 
 - i do not think so
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - i do not think so
@@ -6104,7 +6134,10 @@ answer: I surf
 
 question: 
 - i refuse
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - i practically
@@ -9488,11 +9521,17 @@ answer: Let us talk about geography
 
 question: 
 - nope
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
   
 question: 
 - nope
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - we have rain
@@ -9564,7 +9603,10 @@ answer: It depends
 
 question: 
 - by no means
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - is george w bush
@@ -10012,7 +10054,10 @@ answer: I am in nc
 
 question: 
 - nah
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - leo
@@ -13048,7 +13093,10 @@ answer: Five
 
 question: 
 - of course not
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - read
@@ -13144,7 +13192,10 @@ answer: Nevermind
 
 question: 
 - never
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - happy christmas
@@ -13196,7 +13247,10 @@ answer: I suffer from syphilis
 
 question: 
 - uhuh
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - dogs
@@ -13296,7 +13350,10 @@ answer: Someone
 
 question: 
 - no i am not
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - no i do not
@@ -13304,11 +13361,17 @@ answer: I do not.
 
 question: 
 - no i did not
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - no do you
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - no it is not
@@ -13332,11 +13395,17 @@ answer: No problem
 
 question: 
 - no sorry
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - no
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
   
 question: 
 - no problems
@@ -13348,7 +13417,10 @@ answer: Interjection
 
 question: 
 - no go ahead
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - city of angels
@@ -13520,7 +13592,10 @@ answer: I like to eat
 
 question: 
 - doubtful
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - hola
@@ -13596,7 +13671,10 @@ answer: I want
 
 question: 
 - na
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
   
 question: 
 - baltimore
@@ -13780,7 +13858,10 @@ answer: I am in the usa
 
 question: 
 - hardly
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - nop
@@ -13868,7 +13949,10 @@ answer: Philip k dick
 
 question: 
 - not completely
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - not me
@@ -13876,11 +13960,17 @@ answer: Not me
   
 question: 
 - not now
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
   
 question: 
 - not that i know of
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - not that badly
@@ -13896,7 +13986,10 @@ answer: Not
 
 question: 
 - not especially
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - not much it
@@ -13912,7 +14005,10 @@ answer: Not
 
 question: 
 - not very
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - not too much
@@ -13952,7 +14048,10 @@ answer: Not a
 
 question: 
 - not a thing
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - not necessarily
@@ -13964,7 +14063,10 @@ answer: Not often
 
 question: 
 - not many
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - not many
@@ -13984,7 +14086,10 @@ answer: Good
 
 question: 
 - not particularly
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - not yet
@@ -14004,7 +14109,10 @@ answer: Not youa.
 
 question: 
 - not reallly
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - not concerned
@@ -14020,7 +14128,10 @@ answer: I am not sure
 
 question: 
 - not any more
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
   
 question: 
 - not
@@ -14632,7 +14743,10 @@ answer: Good
 
 question: 
 - certainly not
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - enough
@@ -14644,7 +14758,10 @@ answer: I am in alaska
 
 question: 
 - naw
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - saving private ryan
@@ -15148,7 +15265,10 @@ answer: Interjection
 
 question: 
 - noooo
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - smiles
@@ -15232,7 +15352,10 @@ answer: I walk
 
 question: 
 - n
-answer: No
+random: |
+ - Well
+ - So what's next?
+ - Alright
 
 question: 
 - none of your business

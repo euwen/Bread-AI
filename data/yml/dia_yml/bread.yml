@@ -756,7 +756,10 @@ answer: Who is botname
 
 question: 
 - is this the same botname
-answer: Yes
+random: |
+ - OK, then
+ - Sure
+ - Alright
 
 question: 
 - why were you named botname
