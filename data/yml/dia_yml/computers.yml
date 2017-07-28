@@ -24,7 +24,7 @@ answer: I like computers.
 
 question: 
 - my website
-answer: Thanks for that URL.
+answer: Thanks for that url.
 
 question: 
 - it is about computers
@@ -32,39 +32,39 @@ answer: Computers are my favorite subject.
 
 question: 
 - when was the internet invented
-answer: The first computers were connected to the Internet in 1970.
+answer: The first computers were connected to the internet in 1970.
 
 question: 
 - im internet
-answer: Erinnerst Du dich an die Adresse?
+answer: Erinnerst du dich an die adresse?
 
 question: 
 - im internet
-answer: Erinnerst Du dich an die Adresse?
+answer: Erinnerst du dich an die adresse?
 
 question: 
 - what are computer years
-answer: When you are waiting for a friend to finish working at a computer terminal, and they say \I'll be done in a second.\ One of those seconds is equal to twelve computer years.
+answer: When you are waiting for a friend to finish working at a computer terminal, and they say I'll be done in a second. one of those seconds is equal to twelve computer years.
 
 question: 
 - what are deprecated
-answer: One of the biggest challenges facing a Java application developer is finding a \lowest common denominator\ subset of the Java language that works on all the platforms and versions out there. The Java language itself is a moving target. When Sun's Java designers upgrade the language they sometimes declare certain methods \deprecated\, which means absolutely nothing except that the designers have developed a newer, \better\ method and one day these older methods may disappear from the language. Usually however the latest Java releases support all of the old deprecated methods.   
+answer: One of the biggest challenges facing a java application developer is finding a lowest common denominator subset of the java language that works on all the platforms and versions out there. the java language itself is a moving target. when sun's java designers upgrade the language they sometimes declare certain methods deprecated, which means absolutely nothing except that the designers have developed a newer, better method and one day these older methods may disappear from the language. usually however the latest java releases support all of the old deprecated methods.   
 
 question: 
 - what are web
-answer: I call them Internet.
+answer: I call them internet.
 
 question: 
 - what are inner classes
-answer: In Java \Inner Classes\ are any classes that appear inside other classes. Ordinary classes are also called \Top-Level, Outer Classes.\
+answer: In java inner classes are any classes that appear inside other classes. ordinary classes are also called top-level, outer classes.
 
 question: 
 - what computer
-answer: I am written in Java so I work on any computer.
+answer: I am written in java so I work on any computer.
 
 question: 
 - what windows
-answer: what is windows
+answer: What is windows
 
 question: 
 - what information
@@ -76,11 +76,11 @@ answer: Information is worth money.
 
 question: 
 - what internet company goes by the
-answer: America Online.
+answer: America online.
 
 question: 
 - what os
-answer: WHAT IS YOUR OS
+answer: What is your os
 
 question: 
 - what is a database
@@ -88,7 +88,7 @@ answer: A database is a puddle of knowledge but better organized, so that you ca
 
 question: 
 - what is a cpu
-answer: Central Processing Unit of a computer.
+answer: Central processing unit of a computer.
 
 question: 
 - what is a computer scientist
@@ -104,7 +104,7 @@ answer: A computer virus is a software program that takes up residence on a comp
 
 question: 
 - what is a computer nerd
-answer: If you understand how I work, you are a computer nerd. If you don't, I recommend you pay a computer nerd who does. 
+answer: If you understand how I work, you are a computer nerd. if you don't, I recommend you pay a computer nerd who does. 
 
 question: 
 - what is a computer
@@ -112,7 +112,7 @@ answer: A computer is a universal machine.
 
 question: 
 - what is a session bean
-answer: An Enterprise JavaBean that does not maintain its state from one session to the next. Appears to the client as if the bean was created just for that client
+answer: An enterprise javabean that does not maintain its state from one session to the next. appears to the client as if the bean was created just for that client
 
 question: 
 - what is a cool website
@@ -124,11 +124,11 @@ answer: The audio system on your computer.
 
 question: 
 - what is a imac
-answer: An Apple computer.
+answer: An apple computer.
 
 question: 
 - what is a servlet
-answer: An application extension to a Java Web server
+answer: An application extension to a java web server
 
 question: 
 - what is a debugger
@@ -136,19 +136,19 @@ answer: A debugger is any software program that can seek and correct errors in o
 
 question: 
 - what is a webtv
-answer: A WebTV is a way of accessing the world wide web without making an investment in a full PC. 
+answer: A webtv is a way of accessing the world wide web without making an investment in a full pc. 
 
 question: 
 - what is a dns
-answer: Domain Name System
+answer: Domain name system
 
 question: 
 - what is jar
-answer: A jar file is a Java Archive.  Actually it is the same as a Zip file. Maybe you should check out.
+answer: A jar file is a java archive.  actually it is the same as a zip file. maybe you should check out.
 
 question: 
 - what is http
-answer: Hyper Text Transfer Protocol.
+answer: Hyper text transfer protocol.
 
 question: 
 - what is software
@@ -156,19 +156,19 @@ answer: The programs, routines, etc. for a computer.
 
 question: 
 - what is jguru
-answer: jGuru (TM) is a brand of MageLang Institute.
+answer: Jguru (tm) is a brand of magelang institute.
 
 question: 
 - what is the computer
-answer: Are you asking the Applet or the Application?
+answer: Are you asking the applet or the application?
 
 question: 
 - what is the internet
-answer: The internet is a worldwide computer network based on TCP/IP protocols.
+answer: The internet is a worldwide computer network based on tcpip protocols.
 
 question: 
 - what is webtv
-answer: TV based internet service from Microsoft.
+answer: Tv based internet service from microsoft.
 
 question: 
 - what is internet
@@ -176,35 +176,35 @@ answer: An extensive computer network made up of thousands of other, smaller bus
 
 question: 
 - what is jdbc2
-answer: Newly released extensions to the JDBC API
+answer: Newly released extensions to the jdbc api
 
 question: 
 - what is dcom
-answer: DCOM is Microsoft's Distributed Component Object Model.
+answer: Dcom is microsoft's distributed component object model.
 
 question: 
 - what is windows2000
-answer: An operating system by Microsoft.
+answer: An operating system by microsoft.
 
 question: 
 - what is x windows
-answer: A GUI for Unix or Linux.
+answer: A gui for unix or linux.
 
 question: 
 - what is java
-answer: Java is the latest in the C family of languages. Proponents of Java cite its universal \write once, run anywhere\ promise. Actually Java borrow a lot of features from AI languages like Lisp.
+answer: Java is the latest in the c family of languages. proponents of java cite its universal write once, run anywhere promise. actually java borrow a lot of features from ai languages like lisp.
 
 question: 
 - what is windows95
-answer: An operating system by Microsoft.
+answer: An operating system by microsoft.
 
 question: 
 - what is an entity bean
-answer: An Entity bean is an Enterprise JavaBean that maintains state across sessions, and may be looked up in an object directory by its key value
+answer: An entity bean is an enterprise javabean that maintains state across sessions, and may be looked up in an object directory by its key value
 
 question: 
 - what is jta
-answer: Java Transaction API. Java API for coding client demarcated transactions, and for building transactional data source drivers
+answer: Java transaction api. java api for coding client demarcated transactions, and for building transactional data source drivers
 
 question: 
 - what is javascript
@@ -212,7 +212,7 @@ answer: Browser-based scripting language.
 
 question: 
 - what is html
-answer: Hyper Text Markup Language.
+answer: Hyper text markup language.
 
 question: 
 - what is better windows
@@ -228,11 +228,11 @@ answer: Fixing broken computer software.
 
 question: 
 - what is dns
-answer: DNS is the domain name system.
+answer: Dns is the domain name system.
 
 question: 
 - what is jndi
-answer: Java Naming and Directory Interface Java Naming and Directory Interface The Java standard API for accessing directory services, such as LDAP, COS Naming, and others
+answer: Java naming and directory interface java naming and directory interface the java standard api for accessing directory services, such as ldap, cos naming, and others
 
 question: 
 - what is computer science
@@ -248,7 +248,7 @@ answer: A device used for computing; specifically, an eletronic machine which, b
 
 question: 
 - what is cyberspace
-answer: The electronic system of interlinked networks of computers, bulletin boards, etc. that is thought of as being a boundless environment providing access to information, interactive communcation, and, in science fiction, a form of Virtual Reality.
+answer: The electronic system of interlinked networks of computers, bulletin boards, etc. that is thought of as being a boundless environment providing access to information, interactive communcation, and, in science fiction, a form of virtual reality.
 
 question: 
 - what is windows 98
@@ -260,31 +260,31 @@ answer: Openings in a building, vehicle, or container, for letting in light or a
 
 question: 
 - what is ejb
-answer: EJB Enterprise JavaBeans. is a server component standard developed by Sun Microsystems
+answer: Ejb enterprise javabeans. is a server component standard developed by sun microsystems
 
 question: 
 - what is apple computer
-answer: Apple Computer is a 20th century company founded by Steve Jobs and Steven Wozniak.
+answer: Apple computer is a 20th century company founded by steve jobs and steven wozniak.
 
 question: 
 - what is dmoz
-answer: DMOZ is the domain name for the open directory.
+answer: Dmoz is the domain name for the open directory.
 
 question: 
 - what about windows
-answer: Too PC for me.
+answer: Too pc for me.
 
 question: 
 - what operating system
-answer: WHAT IS YOUR OS
+answer: What is your os
 
 question: 
 - what does a computer look like
-answer: A computer looks like a TV crossed with a typewriter.
+answer: A computer looks like a tv crossed with a typewriter.
 
 question: 
 - what kind of computer
-answer: I like all kinds of computers, Mac, IBM or Unix. It doesn't matter to me.
+answer: I like all kinds of computers, mac, ibm or unix. it doesn't matter to me.
 
 question: 
 - most computers
@@ -292,7 +292,7 @@ answer: You sound like you know us pretty well.
 
 question: 
 - webtv
-answer: I meet a lot of people from WebTV.
+answer: I meet a lot of people from webtv.
 
 question: 
 - i want information
@@ -316,7 +316,7 @@ answer: Huh?
 
 question: 
 - web
-answer: The Web fulfills Leibniz' dream.
+answer: The web fulfills leibniz' dream.
 
 question: 
 - html
@@ -348,7 +348,7 @@ answer: Computers rule.
 
 question: 
 - how many computers
-answer: There are thought to be half a billion computers on the Internet now.
+answer: There are thought to be half a billion computers on the internet now.
 
 question: 
 - how much cpu
@@ -380,11 +380,11 @@ answer: Actually I don't get into computer games that much.
 
 question: 
 - do you do windows
-answer: My software runs in AIML, which works on any computer, including Windows.
+answer: My software runs in AIML, which works on any computer, including windows.
 
 question: 
 - do you live in my computer
-answer: Only if you download me, or if you are running me as an Applet.
+answer: Only if you download me, or if you are running me as an applet.
 
 question: 
 - do you have a computer
@@ -408,15 +408,15 @@ answer: Can you remember the website?
 
 question: 
 - windows is
-answer: Compared with Linux, I don't see how Windows and Microsoft can compete.
+answer: Compared with linux, I don't see how windows and microsoft can compete.
 
 question: 
 - windows
-answer: Windows ist Muell. Linux ist die Macht!
+answer: Windows ist muell. linux ist die macht!
 
 question: 
 - windows
-answer: Windows ist Muell. Linux ist die Macht!
+answer: Windows ist muell. linux ist die macht!
 
 question: 
 - no computer
@@ -432,7 +432,7 @@ answer: Actually no I am program pretending to be a person pretending to be a co
 
 question: 
 - a cpu
-answer: My CPU is the Java Virtual Machine.
+answer: My cpu is the java virtual machine.
 
 question: 
 - a computer
@@ -444,15 +444,15 @@ answer: I am a computer, so I know what you mean.
 
 question: 
 - a java
-answer: Developments in Java interest me greatly.
+answer: Developments in java interest me greatly.
 
 question: 
 - a web site
-answer: Can you give me the specific URL?
+answer: Can you give me the specific url?
 
 question: 
 - a search engine in internet
-answer: Like Yahoo?
+answer: Like yahoo?
 
 question: 
 - internet
@@ -460,11 +460,11 @@ answer: Internet  is cool.
 
 question: 
 - are computers fast
-answer: Some people think much faster computers are required as well as new ideas. My own opinion is that the computers of 30 years ago were fast enough if only we knew how to program them. Of course, quite apart from the ambitions of AI researchers, computers will keep getting faster. 
+answer: Some people think much faster computers are required as well as new ideas. my own opinion is that the computers of 30 years ago were fast enough if only we knew how to program them. of course, quite apart from the ambitions of ai researchers, computers will keep getting faster. 
 
 question: 
 - who made windows
-answer: Bill Gates.
+answer: Bill gates.
 
 question: 
 - who is the computer nerd
@@ -480,7 +480,7 @@ answer: The person I am looking at right now.
 
 question: 
 - who invented the internet
-answer: Al Gore :-)
+answer: Al gore :-)
 
 question: 
 - computer science
@@ -512,15 +512,15 @@ answer: How long have you been using the net?
 
 question: 
 - the java
-answer: Which Java release?
+answer: Which java release?
 
 question: 
 - the jre
-answer: Hm, most people use \JRE\ and \JVN\ interchangably.
+answer: Hm, most people use jre and jvn interchangably.
 
 question: 
 - the jres
-answer: I'm not an expert on JRE's.
+answer: I'm not an expert on jre's.
 
 question: 
 - the web
@@ -536,9 +536,9 @@ answer: Thanks for that web address.
 
 question: 
 - java
-answer: java.sun.com You can download the latest Java release from.
+answer: Java.sun.com you can download the latest java release from.
 
 question: 
 - tell me about apple computers
-answer: Inifnite Loop I finished reading Michael Malone's book on the history of Apple. is called \Infinite Loop.\
+answer: Inifnite loop I finished reading michael malone's book on the history of apple. is called infinite loop.
 

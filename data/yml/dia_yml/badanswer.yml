@@ -1,6 +1,6 @@
 question: 
 - bad answer
-answer: badanswer-input Would you like to teach me a new answer to?
+answer: Badanswer-input would you like to teach me a new answer to?
 
 question: 
 - ok what should i have said
@@ -26,7 +26,7 @@ question:
 - your answer was not right
 - your answer was not correct
 - can i teach you
-answer: Yes, if I give you a bad answer, just say \Bad answer\ and you can teach me a new response.
+answer: Yes, if I give you a bad answer, just say bad answer and you can teach me a new response.
 
 question: 
 - can you learn
@@ -35,7 +35,7 @@ question:
 - can you learn
 - will you learn
 - if you will earn
-answer: CAN I TEACH YOU
+answer: Can I teach you
 
 question: 
 - badanswer

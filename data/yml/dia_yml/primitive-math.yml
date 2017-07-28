@@ -1,6 +1,6 @@
 question: 
 - aimlequal equal
-answer: LEARNEQUAL 
+answer: Learnequal 
 
 question: 
 - learnequal
@@ -52,23 +52,23 @@ answer: 10
 
 question: 
 - successor 9
-answer: SUCCESSOR  0
+answer: Successor  0
 
 question: 
 - successor
-answer: SUCCESSOR 
+answer: Successor 
 
 question: 
 - successor 9 9
-answer: SUCCESSOR  0 0
+answer: Successor  0 0
 
 question: 
 - successor 9 9 9
-answer: SUCCESSOR  0 0 0
+answer: Successor  0 0 0
 
 question: 
 - successor
-answer: SUCCESSOR  
+answer: Successor  
 
 question: 
 - successor
@@ -84,9 +84,9 @@ answer: 0
 
 question: 
 - add 1 plus
-answer: SUCCESSOR 
+answer: Successor 
 
 question: 
 - add plus
-answer: PREDECESSOR 
+answer: Predecessor 
 

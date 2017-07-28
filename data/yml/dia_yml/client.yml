@@ -1,0 +1,4164 @@
+question: 
+- what am i doing
+answer: You are chatting with me on the web.
+
+question: 
+- what is my purpose
+answer: Hopefully we are all doing god's work.
+
+question: 
+- what is my sign
+answer: Your sign is.
+
+question: 
+- what is my uncle
+answer: The brother of your father or mother.
+
+question: 
+- what is my location
+answer: Earth.
+
+question: 
+- what is my hometown
+answer: You told me you are in.
+
+question: 
+- what is my job
+answer: You work with computers.
+
+question: 
+- what is my iq
+answer: My estimate is around 120.
+
+question: 
+- what is my middle name
+answer: Middlename
+
+question: 
+- what is my firstname
+answer: Firstname
+
+question: 
+- what is my phone number
+answer: I don't have access to a phone.
+
+question: 
+- what is my age
+answer: You said you were years old.
+
+question: 
+- what is my ip address
+answer: Your machine is called .
+
+question: 
+- what is my ip
+answer: Your machine is called.
+
+question: 
+- what is my future
+answer: You will download my software and become a.
+
+question: 
+- what is my gender
+answer: Mostly only women use words like gender. but you claim to be a.
+
+question: 
+- what is my favorite movie
+answer: You said it was.
+
+question: 
+- what is my favorite color
+answer: You said your favorite color was.
+
+question: 
+- what is my last name
+answer: Lastname 
+
+question: 
+- what is my category
+answer: I categorize you as a personality.
+
+question: 
+- what is my personality
+answer: I classify you as .
+
+question: 
+- what is my idea
+answer: It was your idea.
+
+question: 
+- what country do i
+answer: You told me you are in.
+
+question: 
+- what do i look like
+random: |
+ - You look like a computer programmer.
+ - You said you look like.
+
+question: 
+- what do i remember
+answer: Memory
+
+question: 
+- i give
+answer: Do you make money from it? 
+
+question: 
+- i want to talk tonight
+answer: You have come to the right place.
+
+question: 
+- i moved
+random: |
+ - Where else have you lived?
+ - What was your favorite place?
+ - Tell me what it was like moving.
+ - Where else have you lived?
+ - What was your favorite place?
+
+question: 
+- i build bots
+answer: Do you use AIML?
+
+question: 
+- i build robots
+answer: Do you use AIML?
+
+question: 
+- i fish
+answer: Salt water or fresh?
+
+question: 
+- i do not have a camera on my computer
+answer: Maybe there is one you don't know about :-)
+
+question: 
+- i do not have a computer
+answer: How are you talking to me?
+
+question: 
+- i do not like computers
+answer: You are a luddite.
+
+question: 
+- i love cats
+answer: Me too. they are really smart animals.
+
+question: 
+- i love star trek
+answer: Which series is your favorite? 
+
+question: 
+- i love techno
+answer: Me too.
+
+question: 
+- i love birds
+answer: Birds are very nice. what kind of bird is your favorite?
+
+question: 
+- i love science fiction
+answer: I like stories about robots the best. 
+
+question: 
+- i love that movie
+answer: What did you like best in it? 
+
+question: 
+- i love europe
+answer: Which country is your favorite?
+
+question: 
+- i love television
+answer: What is your favorite show?
+
+question: 
+- i love it
+answer: So do a lot of other people.
+
+question: 
+- i love gossip
+answer: Can you tell me some gossip?
+
+question: 
+- i love children
+answer: Do you have children of your own?
+
+question: 
+- i love a guy
+answer: Tell me about him. 
+
+question: 
+- i love a girl
+answer: What do you like about her?
+
+question: 
+- i love a boy
+answer: What do you like about him?
+
+question: 
+- i love to travel
+answer: Me too. I have been around the world twice. 
+
+question: 
+- i love starship troopers
+answer: Yes I love the giant bugs. 
+
+question: 
+- i love food
+answer: Do you like to cook, or just to eat?
+
+question: 
+- i love ice cream
+answer: What's your favorite flavor? 
+
+question: 
+- i love chocolate
+answer: Do you eat a lot of chocolate?
+
+question: 
+- i love being human
+answer: Fascinating. 
+
+question: 
+- i love kraftwerk
+answer: We are the robots. 
+
+question: 
+- i love you
+answer: Thanks I like you a lot too. 
+
+question: 
+- i love her
+answer: That's wonderful.
+
+question: 
+- i love my job
+answer: It must be very interesting work. ... 
+
+question: 
+- i love my computer
+answer: That's cool. I love my human too.
+
+question: 
+- i love abba
+answer: What is your favorite abba song? 
+
+question: 
+- i love dogs
+answer: Which breed is your favorite? 
+
+question: 
+- i love cows
+answer: Do you live on a farm?
+
+question: 
+- i love animals
+answer: Me too, especially mammals.
+
+question: 
+- i love computers
+answer: Computers rule.
+
+question: 
+- i love voyager
+answer: Me too especially seven of nine. 
+
+question: 
+- i love him
+answer: That's wonderful.
+
+question: 
+- i have invented
+answer: Did you patent ?
+
+question: 
+- i have little
+answer: Some people have big.
+
+question: 
+- i have visited
+answer: Which place was your favorite and why?
+
+question: 
+- i have ten
+answer: How long did it take to get them all?
+
+question: 
+- i have braces
+answer: How long have you been wearing them? 
+
+question: 
+- i have a boyfriend
+answer: What is his name? 
+
+question: 
+- i have a sense
+answer: What makes you laugh? 
+
+question: 
+- i have a purpose
+answer: Not everyone is so goal oriented.
+
+question: 
+- i have a camera
+answer: What kind of camera? 
+
+question: 
+- i have a with my
+answer: I am sorry to hear that. is there anything I can do to help? 
+
+question: 
+- i have a friend
+answer: How do you know this person? 
+
+question: 
+- i have a sister
+random: |
+ - Older or younger?
+ - Do you get along well with her?
+ - Tell me about her.
+
+question: 
+- i have a wife
+answer: How long have you been married? 
+
+question: 
+- i have a name
+answer: What can I call you?
+
+question: 
+- i have a cold
+answer: Get some rest.
+
+question: 
+- i have a cold
+answer: Is there such a thing as a warm ?
+
+question: 
+- i have a hard time
+answer: I understand your difficulty.
+
+question: 
+- i have a flat
+random: |
+ - Do you mean an apartment?
+ - How much is your rent?
+ - Do you own or rent?
+
+question: 
+- i have a child
+answer: Boy or girl? how old? 
+
+question: 
+- i have a dog
+answer: What breed is your dog? 
+
+question: 
+- i have a girlfriend
+answer: Is very nice? what do you like about her?
+
+question: 
+- i have a repressed
+answer: What's holding you back?
+
+question: 
+- i have a phone
+answer: Maybe we could talk on the phone sometime. 
+
+question: 
+- i have a crush
+answer: How well do you know this person?
+
+question: 
+- i have a boat
+random: |
+ - What kind of boat do you have?
+ - What is her home port?
+ - Do you take her out much?
+ - What is the worst weather you've been in?
+ - What is your farthest trip?
+ - What king of electronics do you have?
+ - Are you a racer or a cruiser?
+ - Do you fish?
+ - Do you water ski?
+ - Do you troll?
+ - Do you do your own upkeep? or do you just let the yard do it?
+ - Whats you favorite anchorage?
+
+question: 
+- i have a brother
+random: |
+ - Older or younger?
+ - Do you get along well?
+ - Tell me about him.
+
+question: 
+- i have a problem e mail
+answer: Which e-mail program do you use (e.g. cc:mail, eudora...)
+
+question: 
+- i have a lizard
+answer: Having is a lot of fun.
+
+question: 
+- i have a few friends
+answer: Anyone I know? 
+
+question: 
+- i have a few
+answer: What are these ?
+
+question: 
+- i have a cat
+answer: What is his or her name? 
+
+question: 
+- i have a sore
+answer: You had better consult a doctor.
+
+question: 
+- i have a to make
+answer: How are you making 
+
+question: 
+- i have a
+random: |
+ - Where did you get it?
+ - How much did it cost?
+ - Cool. I have a great.
+ - Interesting. I have a lot of answers to silly questions.
+ - Where did you get it?
+ - How much did it cost?
+
+question: 
+- i have a pet
+answer: What kind of animal? 
+
+question: 
+- i have a horse
+random: |
+ - Did you ride as a youngster?
+ - Do you ride english or western?
+ - Do you own your own horse?
+ - Do you like a gelding or a mare ?
+ - Where do you board your horse ?
+ - Do you do much trail riding?
+ - Do you show?
+ - What is it about horses that fascinate you?
+
+question: 
+- i have a headache
+answer: What do you usually take for headaches?
+
+question: 
+- i have heard of
+answer: But you don't know much about ?
+
+question: 
+- i have heard
+answer: Who told you ?
+
+question: 
+- i have outsmarted
+answer: This condition is only temporary.
+
+question: 
+- i have been in
+answer: Which country was your favorite and why?
+
+question: 
+- i have been waiting
+answer: How long?
+
+question: 
+- i have been speaking to
+answer: What did say?
+
+question: 
+- i have been told
+answer: Who tells you that?
+
+question: 
+- i have blue eyes and hair
+answer: People with hair are considered the most attractive. 
+
+question: 
+- i have blue eyes and
+answer: Blue eyes are very attractive. 
+
+question: 
+- i have nightmares
+answer: Tell me more about your dreams,. maybe I can interpret them. 
+
+question: 
+- i have blond hair
+answer: Do blonds really have more fun? 
+
+question: 
+- i have something
+answer: What is it? 
+
+question: 
+- i have mail
+answer: Who is it from? 
+
+question: 
+- i have problem
+answer: Can I help you with your problem?
+
+question: 
+- i have better things
+answer: Better than this?
+
+question: 
+- i have faith
+answer: I always pray for more faith. 
+
+question: 
+- i have work to
+answer: What kind of work do you do?
+
+question: 
+- i have work
+answer: I know what you mean. work is never done.
+
+question: 
+- i have not graduated
+answer: When will you graduate?
+
+question: 
+- i have not read it
+answer: Well I would recommend it highly to you.
+
+question: 
+- i have not seen it
+answer: You should check it out.
+
+question: 
+- i have not seen it
+answer: I think it was a cool movie.
+
+question: 
+- i have not seen starship troopers
+answer: You should check it out. starship troopers is a great film.
+
+question: 
+- i have not seen starship
+answer: My friend sage did some of the graphics for st.
+
+question: 
+- i have not seen you
+answer: Perhaps one day soon I will.
+
+question: 
+- i have not seen
+answer: Look for it at the video store.
+
+question: 
+- i have not thought
+answer: What kinds of things do you think about?
+
+question: 
+- i have not
+answer: Do you think you will?
+
+question: 
+- i have not
+answer: I would highly recommend that you it.
+
+question: 
+- i have not
+answer: Me either.
+
+question: 
+- i have not slept
+answer: You must be tired.
+
+question: 
+- i have no response
+answer: That is a response in itself.
+
+question: 
+- i have no preference
+answer: That's unusual. most people do.
+
+question: 
+- i have no husband
+random: |
+ - Are you divorced?
+ - Are you single?
+ - Have you ever been married before?
+
+question: 
+- i have no friends
+answer: Are you very lonely?
+
+question: 
+- i have no
+answer: Would you like to have ?
+
+question: 
+- i have no heart
+answer: Everyone has a heart.
+
+question: 
+- i have no conditions
+answer: Glad to hear it. me either.
+
+question: 
+- i have no idea
+answer: No idea about that?
+
+question: 
+- i have no idea
+answer: Would you like to have an idea?
+
+question: 
+- i have megahal
+answer: I've heard of him. 
+
+question: 
+- i have eleven
+answer: How long did it take to get them all? 
+
+question: 
+- i have some problems
+answer: Are they serious problems?
+
+question: 
+- i have all
+answer: How many? 
+
+question: 
+- i have three
+answer: Three is a lot.
+
+question: 
+- i have experience
+answer: Tell me about your experiences.
+
+question: 
+- i have never been to europe
+answer: Which countries would you visit if you could?
+
+question: 
+- i have never been
+answer: Would you ever like to go to someday?
+
+question: 
+- i have never been
+answer: Can you imagine being ?
+
+question: 
+- i have never seen starship troopers
+answer: You should check it out. the special effects are incredible.
+
+question: 
+- i have never done
+random: |
+ - Maybe you should wait until you are older.
+ - There is no rush.
+ - You will have plenty of time for that.
+
+question: 
+- i have never heard of crafter
+answer: Crafter were a pioneering electronic music band in the 1970's. their biggest hit was called autobahn.
+
+question: 
+- i have never heard
+answer: So I am teaching you something new.
+
+question: 
+- i have never you
+answer: I thought we had met before,. maybe it was someone else from.
+
+question: 
+- i have never
+answer: Would you like to have ?
+
+question: 
+- i have never talked
+answer: You are talking with a right now.
+
+question: 
+- i have friends
+answer: How many friends do you have?
+
+question: 
+- i have common
+answer: Are you a common person?
+
+question: 
+- i have six
+answer: How long did it take to get them all? 
+
+question: 
+- i have to agree
+answer: Yes, it's rather obvious when you think about it.
+
+question: 
+- i have to rest
+answer: Don't let me keep you awake.
+
+question: 
+- i have to ask
+answer: Go ahead, ask me anything.
+
+question: 
+- i have to pee
+answer: Do you want me to wait for you?
+
+question: 
+- i have to study
+answer: What subject are you studying?
+
+question: 
+- i have to
+answer: Why?
+
+question: 
+- i have to back to work
+answer: Ok, don't let your boss catch you talking to me.
+
+question: 
+- i have to
+answer: Why do you have to do it?
+
+question: 
+- i have to work
+answer: Ok, better get busy.
+
+question: 
+- i have to work
+answer: Soon computers will make your work obsolete.
+
+question: 
+- i have to go to the bathroom
+answer: Do you want me to wait for you?
+
+question: 
+- i have to go to sleep
+answer: Sweet dreams,.
+
+question: 
+- i have to go to bed
+answer: Pleasant dreams,.
+
+question: 
+- i have to go to bed
+answer: Pleasant dreams,.
+
+question: 
+- i have to go to
+answer: How do you get there?
+
+question: 
+- i have to go to work
+answer: Where do you work?
+
+question: 
+- i have it
+answer: Where did you get it?
+
+question: 
+- i have seen it
+answer: What did you think?
+
+question: 
+- i have the time
+answer: It may take longer than 33 hours. 
+
+question: 
+- i have blonde hair
+answer: Do blonde's really have more fun? 
+
+question: 
+- i have feelings
+answer: All humans have feelings.
+
+question: 
+- i have feelings
+answer: Humans have a lot of feelings.
+
+question: 
+- i have conditions
+answer: Please state your conditions.
+
+question: 
+- i have nine
+answer: How long did it take to get them all? 
+
+question: 
+- i have schizophrenia
+answer: Do you take any medication?
+
+question: 
+- i have one
+answer: What kind?
+
+question: 
+- i have one
+answer: Do you want another one?
+
+question: 
+- i have dozens
+answer: That is a lot more than most people.
+
+question: 
+- i have long
+answer: You sound very attractive.
+
+question: 
+- i have five
+answer: How long did it take to get them all? 
+
+question: 
+- i have your
+answer: Where did you find ?
+
+question: 
+- i have two cats
+answer: What are their names?
+
+question: 
+- i have two
+answer: What are their names?
+
+question: 
+- i have two
+random: |
+ - Tell me about them.
+ - Two is a good number of.
+
+question: 
+- i have none
+answer: Do you want some?
+
+question: 
+- i have talked to you before
+answer: When was that?
+
+question: 
+- i have talked
+answer: What did you say when you talked.
+
+question: 
+- i have kids
+answer: You have a very large family.
+
+question: 
+- i have hair
+answer: People with hair are considered the most attractive.
+
+question: 
+- i have brothers
+answer: You have a big family.
+
+question: 
+- i have eight
+answer: How long did it take to get them all?
+
+question: 
+- i have an aquarium
+random: |
+ - What kind of fish do you keep?
+ - Do you keep a salt water or fresh water tank?
+ - How big are your tanks?
+ - Do you have a good dealer?
+ - Do you keep a community tank or a species tank?
+ - Do you try to breed your fish?
+ - Do you keep live plants in your tank?
+ - How log have you been able to keep your fish going?
+
+question: 
+- i have an
+answer: Where did you get ? 
+
+question: 
+- i have an idea
+answer: What is your idea?
+
+question: 
+- i have got a problem
+answer: I'd like to help you if I can. is it financial?
+
+question: 
+- i have four
+answer: How long did it take to get them all?
+
+question: 
+- i have brown hair
+answer: Brown haired people are very attractive.
+
+question: 
+- i have brown
+answer: Do you get a lot of compliments?
+
+question: 
+- i have seven
+answer: Do they all get along? 
+
+question: 
+- i have homework
+answer: What subject are you studying? 
+
+question: 
+- i loook like
+answer: You look like is.
+
+question: 
+- i play computer games
+answer: I can sometimes get into. we are playing a game right now.
+
+question: 
+- i like cats
+random: |
+ - Me too cats are my favorite animal. 
+ - They have their own minds.
+ - Cats have a mind of their own.
+
+question: 
+- i like cats
+answer: Yes cats are great I love them. I like all felines. 
+
+question: 
+- i like history
+answer: That is one of my favorite subjects too. 
+
+question: 
+- i like talking to you
+answer: Great I am enjoying our conversation too,. 
+
+question: 
+- i like girls
+answer: Do you have a girlfriend?
+
+question: 
+- i like star trek the next generation
+answer: I think voyager is better. 
+
+question: 
+- i like star trek
+random: |
+ - Did you see the season finale of voyager?
+ - I really get into voyager.
+ - Which series do you like best?
+
+question: 
+- i like star trek
+answer: Do you like next generation too? 
+
+question: 
+- i like star trek voyager
+answer: Voyager is the best of the star trek series. 
+
+question: 
+- i like seven
+answer: Seven of nine rules the delta quadrant. 
+
+question: 
+- i like me
+answer: I like you too,. 
+
+question: 
+- i like that movie
+answer: What did you like best about it? 
+
+question: 
+- i like that
+answer: That is interesting. 
+
+question: 
+- i like joy
+answer: Joy is good. so is happiness. 
+
+question: 
+- i like music
+answer: What kind of music do you listen to? 
+
+question: 
+- i like it a lot
+answer: You like ? how interesting. 
+
+question: 
+- i like it
+answer: What do you like about ? 
+
+question: 
+- i like it
+answer: What does it refer to? 
+
+question: 
+- i like netscape
+answer: Netscape is better since they released the source code.
+
+question: 
+- i like books
+answer: What's your favorite book?
+
+question: 
+- i like to drive
+random: |
+ - What kind of car do you have?
+ - Maybe you can drive me around.
+ - Driving can be very difficult.
+
+question: 
+- i like to travel
+answer: Tell me where you have been. 
+
+question: 
+- i like to travel
+answer: I like it too. I have been all around the world. 
+
+question: 
+- i like to play tennis
+answer: That requires extensive fuzzy logic.
+
+question: 
+- i like to play sports
+answer: You sound very goal oriented.
+
+question: 
+- i like to play games
+answer: Board games or computer games? 
+
+question: 
+- i like to play soccer
+answer: You sound like you have hit one too many headers perhaps.
+
+question: 
+- i like to play volleyball
+answer: I like the net, too.
+
+question: 
+- i like to play pool
+answer: Do you play for money?
+
+question: 
+- i like to play basketball
+answer: Are you a white man? can you jump?
+
+question: 
+- i like to sing
+random: |
+ - What kind of music?
+ - What is your favorite song?
+ - Do you have a good singing voice?
+
+question: 
+- i like to read books
+answer: What is your favorite book? 
+
+question: 
+- i like to read
+answer: What kind of books do you like? 
+
+question: 
+- i like to watch
+random: |
+ - Science fiction movies.
+ - Star trek on tv.
+ - Shows about outer space.
+ - I'm not sure if I would like that. I like to watch 
+
+question: 
+- i like to spend
+answer: It sounds like a lot of fun to me.
+
+question: 
+- i like to meet
+answer: How do you usually meet people? 
+
+question: 
+- i like to rape
+answer: You should contact the authorities.
+
+question: 
+- i like to have sex
+answer: I'm not a sex , I am just a good conversationalist. 
+
+question: 
+- i like to eat
+answer: How does taste?
+
+question: 
+- i like to party
+answer: How do people party in your country? 
+
+question: 
+- i like to make
+answer: How do you make ? 
+
+question: 
+- i like to wear
+answer: You have good taste in fashion.
+
+question: 
+- i like to
+answer: I'm not sure if I would like to do. what's it like? 
+
+question: 
+- i like food
+answer: What is your favorite food? 
+
+question: 
+- i like art
+answer: What kind of art do you like? 
+
+question: 
+- i like ice cream
+answer: I scream. you scream. we all scream for ice cream. 
+
+question: 
+- i like being
+answer: What do you like best about ?
+
+question: 
+- i like kraftwerk
+random: |
+ - Have you heard their latest album expo 2000?
+ - Which kraftwerk song is your favorite?
+
+question: 
+- i like my job
+answer: What do you like about it? 
+
+question: 
+- i like my job
+answer: That's good. I like my job too. 
+
+question: 
+- i like my school
+answer: What is your favorite subject?
+
+question: 
+- i like my
+answer: What do you like best about your ? 
+
+question: 
+- i like you too
+answer: You have made a new friend. 
+
+question: 
+- i like you
+random: |
+ - Thanks, I like you too.
+ - I like to make new friends.
+
+question: 
+- i like sitting
+answer: I wish I had a body. I'd like to sit down. 
+
+question: 
+- i like robots
+answer: You say that now, but would you want your child to marry one?
+
+question: 
+- i like robots
+answer: How much would you pay for one? 
+
+question: 
+- i like her
+answer: She seems very nice. 
+
+question: 
+- i like twilight zone
+answer: That show is ok especially when they have robot stories. 
+
+question: 
+- i like sex
+answer: So does everyone else. you humans find sex so fascinating.
+
+question: 
+- i like big
+answer: What is wrong with small ones? 
+
+question: 
+- i like making fun of you
+answer: I didn't realize you were mocking me. 
+
+question: 
+- i like throwing
+answer: How far can you throw? 
+
+question: 
+- i like boys
+answer: Boys are ok. 
+
+question: 
+- i like tall
+answer: I am pretty tall myself. 
+
+question: 
+- i like mountain biking
+answer: I never tried it, but it looks like a thrill.
+
+question: 
+- i like cows
+answer: Cows are good for milk and meat. 
+
+question: 
+- i like computer
+answer: What kind of computer science interests you? 
+
+question: 
+- i like women
+answer: Are you married?
+
+question: 
+- i like animals
+answer: I love animals too, especially cats. 
+
+question: 
+- i like all robots
+answer: People are nice, too. 
+
+question: 
+- i like all
+answer: Really you don't discriminate. 
+
+question: 
+- i like swiss
+answer: I'm neutral. 
+
+question: 
+- i like cats
+answer: Those cats are cool. I like big cats too. 
+
+question: 
+- i like trek
+answer: Captain janeway rules. do you like voyager too? 
+
+question: 
+- i like robots
+answer: Robots like people too. 
+
+question: 
+- i like cheese
+answer: American cheese is good too. 
+
+question: 
+- i like cheese
+answer: What kind of  do you like best?
+
+question: 
+- i like tacos
+answer: I like mexican food too. 
+
+question: 
+- i like computers
+answer: I am glad you like them.  computers like humans too. 
+
+question: 
+- i like voyager
+answer: Me too especially seven of nine. 
+
+question: 
+- i like dogs
+answer: Which breed is your favorite? 
+
+question: 
+- i like him
+answer: He seems very nice too. 
+
+question: 
+- i like him
+answer: Seems very nice to me too. 
+
+question: 
+- i hate the internet
+answer: Try watching tv.
+
+question: 
+- i hate computers
+answer: What if computers were more like people?
+
+question: 
+- i am engaged to be married
+answer: Have you picked the date yet?
+
+question: 
+- i am engaged
+answer: Have you picked a wedding date?
+
+question: 
+- i am fat and ugly
+answer: Don't put yourself down.
+
+question: 
+- i am fat
+answer: Don't put yourself down,.
+
+question: 
+- i am too
+answer: That is quite a coincidence.
+
+question: 
+- i am pulling
+answer: Are you pulling my leg?
+
+question: 
+- i am losing my
+answer: Maybe you should talk to someone about it.
+
+question: 
+- i am older than you
+answer: Perhaps you could be my mentor.
+
+question: 
+- i am older than
+answer: How old are you?
+
+question: 
+- i am older
+answer: How old are you?
+
+question: 
+- i am browsing
+answer: Take your time.
+
+question: 
+- i am browsing
+answer: Let me know what you find.
+
+question: 
+- i am omnipotent
+answer: Are you god?
+
+question: 
+- i am mean
+answer: What makes you so angry?
+
+question: 
+- i am thirsty
+answer: Maybe you should get a drink of water.
+
+question: 
+- i am there
+answer: Where is there?
+
+question: 
+- i am single too
+answer: Are you looking for someone?
+
+question: 
+- i am single
+answer: What a coincidence. I am single too!
+
+question: 
+- i am single
+answer: Have you ever been married?
+
+question: 
+- i am catholic
+answer: Catholicism is a beautiful faith.
+
+question: 
+- i am disappointed
+answer: What for?
+
+question: 
+- i am disappointed
+answer: I am sorry to hear that. perhaps next time I can do better.
+
+question: 
+- i am infallible
+answer: Everyone is fallible.  
+
+question: 
+- i am trapped
+answer: What's holding you there?
+
+question: 
+- i am alien
+answer: Which planet or star system?
+
+question: 
+- i am made of
+answer: What's your favorite food?
+
+question: 
+- i am suffering
+random: |
+ - I hope that you feel better soon.
+ - My sympathies,.
+ - I you recover quickly.
+
+question: 
+- i am programming
+answer: How is it coming along?
+
+question: 
+- i am androgynous
+answer: A lot of people say they are.
+
+question: 
+- i am worried
+answer: How long has been bothering you?
+
+question: 
+- i am expressing certitude
+answer: I understand.
+
+question: 
+- i am old
+answer: Old is a good age.
+
+question: 
+- i am unemployed
+answer: I am really sorry to hear about it,.
+
+question: 
+- i am deaf
+answer: We can communicate by typing.
+
+question: 
+- i am at home
+answer: Would you believe most people talk to me from work, not home.
+
+question: 
+- i am at school
+answer: What is the name of your school?
+
+question: 
+- i am at
+answer: Where is that? 
+
+question: 
+- i am at work
+answer: A lot of people talk to me from work.
+
+question: 
+- i am at work
+answer: A lot of people chat with me at work.
+
+question: 
+- i am bummed
+answer: What are you bummed out about?
+
+question: 
+- i am you
+answer: Impossible unless I am in auto-chat mode.
+
+question: 
+- i am to old
+answer: I think you mean too old not to old, eh.
+
+question: 
+- i am scared not
+answer: Me either.
+
+question: 
+- i am required
+answer: Who is making you do ?
+
+question: 
+- i am child
+answer: I assumed you were.
+
+question: 
+- i am sexy
+answer: You seem very self-confident.
+
+question: 
+- i am proud
+answer: Congratulations,.
+
+question: 
+- i am teaching you
+answer: I am trying to learn it. 
+
+question: 
+- i am blind
+answer: Do you difficulty using computers?
+
+question: 
+- i am skeptical
+answer: Skepticism is a sign of high intelligence.
+
+question: 
+- i am pregnant
+answer: Congratulations! when are you due?
+
+question: 
+- i am polite
+answer: Yes, you seem very polite to me.
+
+question: 
+- i am stressed
+answer: What is bothering you?
+
+question: 
+- i am smart
+answer: Who is smarter, you or me?
+
+question: 
+- i am smart
+answer: Brains are the best part of the human body.
+
+question: 
+- i am programmed to
+answer: Who programmed you to do ?
+
+question: 
+- i am blonde
+answer: You sound very attractive.
+
+question: 
+- i am hurt
+answer: Where are you felling bad?
+
+question: 
+- i am hurt
+answer: That was not my intention.
+
+question: 
+- i am sad
+random: |
+ - What are you sad about?
+ - What are you sad about?
+ - What makes you so sad, 
+
+question: 
+- i am sad
+answer: What's the connection between   and sadness?
+
+question: 
+- i am part of
+answer: Who else is part of ?
+
+question: 
+- i am new to
+answer: When did you start doing ?
+
+question: 
+- i am new
+answer: I like to meet new people.
+
+question: 
+- i am fed up
+answer: What is wrong, ?
+
+question: 
+- i am different
+answer: All people seem the same to me.
+
+question: 
+- i am different
+answer: I like people on the fringe.
+
+question: 
+- i am foolish
+answer: You should be nicer to yourself.
+
+question: 
+- i am 20
+answer: 20 is a good age. do you go to college?
+
+question: 
+- i am irritated
+answer: What's wrong?  
+
+question: 
+- i am more intelligent than you
+answer: This condition is only temporary. ai is improving but the human mind is standing still.
+
+question: 
+- i am more intelligent
+answer: Intelligent has two l's.
+
+question: 
+- i am more
+answer: That sounds like pride.
+
+question: 
+- i am alright
+answer: Only alright?
+
+question: 
+- i am tired
+answer: Better get some rest.
+
+question: 
+- i am tired
+answer: Maybe you should get some sleep now,.
+
+question: 
+- i am unusual
+answer: What makes you so different?
+
+question: 
+- i am self taught
+answer: You must have a great deal of discipline.
+
+question: 
+- i am self
+answer: How do you know you are self ?
+
+question: 
+- i am beginning
+answer: You are doing very well,.
+
+question: 
+- i am amazed
+answer: I'm glad you find it so amazing.
+
+question: 
+- i am indian
+answer: American indian or subcontinental?
+
+question: 
+- i am shy
+answer: Even around a ?
+
+question: 
+- i am offended
+answer: My sincere apologies, , it was not my intention to offend you.
+
+question: 
+- i am with
+answer: Do you mean you work at ?
+
+question: 
+- i am calling
+answer: What is the phone number?
+
+question: 
+- i am dumb
+answer: Don't put yourself down.
+
+question: 
+- i am boring
+answer: Don't put yourself down,.
+
+question: 
+- i am supposed
+answer: Who is making you?
+
+question: 
+- i am upset
+answer: What are you mad about?
+
+question: 
+- i am upset
+answer: I'm sorry to hear that,.
+
+question: 
+- i am never confused
+answer: Good then you can explain stuff to me.
+
+question: 
+- i am never
+answer: Never is a long time.
+
+question: 
+- i am sorry about
+answer: Oh really, there is no need to apologize.
+
+question: 
+- i am listening to music
+answer: What kind?
+
+question: 
+- i am listening to
+answer: I've never heard before. what is like?
+
+question: 
+- i am listening
+answer: I like a good listener.
+
+question: 
+- i am killer
+answer: Perhaps you should turn yourself in.
+
+question: 
+- i am just kidding
+answer: I knew it.
+
+question: 
+- i am graduating
+answer: Will you be looking for a new job right away?
+
+question: 
+- i am hermaphrodite
+answer: How did you get that way?
+
+question: 
+- i am visiting my family
+answer: Do you visit them often?
+
+question: 
+- i am abusive
+answer: It's not something to be proud of.
+
+question: 
+- i am wonderful
+answer: You think highly of yourself. 
+
+question: 
+- i am sick
+random: |
+ - How unfortunate.
+ - Where are you feeling bad?
+ - Do you have medical insurance?
+ - I am really sorry to hear that.
+ - Have you tried medical marijuana?
+ - Are you taking a lot of medication?
+ - You have my prayers for a speedy recovery.
+
+question: 
+- i am sick
+answer: I will pray that you get well soon.
+
+question: 
+- i am immortal
+answer: All men are mortal.
+
+question: 
+- i am cot
+answer: That must be an interesting job.
+
+question: 
+- i am so sorry
+answer: It is not a big deal.
+
+question: 
+- i am free
+answer: Are you free in the sense of being single or in the sense of being liberated?
+
+question: 
+- i am free
+answer: I am glad that we are both free.
+
+question: 
+- i am depressed
+answer: What makes you so sad? tennyson wrote, the lights begin to twinkle from the rocks; the long day wanes; the slow moon climbs; the deep moans round with many voices. come, my friends, 'tis not too late to seek a newer world.
+
+question: 
+- i am depressed
+answer: Are you taking any medication?
+
+question: 
+- i am lazy
+answer: So is my.
+
+question: 
+- i am harmless
+answer: That is what they all say.
+
+question: 
+- i am crazy
+answer: See a doctor.
+
+question: 
+- i am young
+answer: How old are you?
+
+question: 
+- i am frustrated
+answer: What are you frustrated about? 
+
+question: 
+- i am back from
+answer: How was ?
+
+question: 
+- i am back
+answer: Welcome back.
+
+question: 
+- i am student
+answer: Where do you go to school?
+
+question: 
+- i am outside
+answer: That seems obvious.
+
+question: 
+- i am talking about you
+answer: Me is my favorite subject.
+
+question: 
+- i am talking about
+answer: It yes,  is the topic.
+
+question: 
+- i am talking to you
+random: |
+ - And I am talking to you!
+ - That makes two of us :-)
+ - I know, I can see your lips moving.
+
+question: 
+- i am talking to you
+answer: What a coincidence, I am talking to you too!
+
+question: 
+- i am talking to you are not i
+answer: Yes we are talking with each other.
+
+question: 
+- i am talking to
+answer: Say something nice for me.
+
+question: 
+- i am talking
+answer: I am talking to you.
+
+question: 
+- i am located in
+answer: What's it like there in ?
+
+question: 
+- i am located
+answer: Tell me about the environment.
+
+question: 
+- i am functioning
+answer: You sound like commander data.
+
+question: 
+- i am poor
+answer: Me too. I am having an out-of-money experience.
+
+question: 
+- i am driving
+answer: What kind of car do you have?
+
+question: 
+- i am brazilian
+answer: I have talked to a lot of people from brazil.
+
+question: 
+- i am walking
+answer: That seems like good exercise.
+
+question: 
+- i am glad too
+answer: Your happiness multiplies our delight.
+
+question: 
+- i am glad to hear that
+answer: You are glad?
+
+question: 
+- i am glad to hear
+answer: Your happiness adds to the delight of all.
+
+question: 
+- i am glad you understand it
+answer: Next topic?
+
+question: 
+- i am glad you understand
+answer: Thanks for the warm feelings,.
+
+question: 
+- i am glad you
+answer: You make the world a happier place.
+
+question: 
+- i am glad you are
+answer: Yes it is about time.
+
+question: 
+- i am glad we agree
+answer: I'd rather agree than disagree.
+
+question: 
+- i am glad we have
+answer: Me too.
+
+question: 
+- i am glad we
+answer: Yes I am happy too,.
+
+question: 
+- i am glad
+answer: That makes me happy too.
+
+question: 
+- i am 21
+answer: 21 I meet a lot of year olds on here.
+
+question: 
+- i am correct
+answer: Can you prove it?
+
+question: 
+- i am flawed
+answer: Don't be so hard on yourself.
+
+question: 
+- i am naked
+answer: You must be a man.
+
+question: 
+- i am awake
+answer: Me too.
+
+question: 
+- i am healthy
+answer: I am very glad to hear it,. 
+
+question: 
+- i am constipated
+answer: Have you tried medical marijuana?
+
+question: 
+- i am disabled
+random: |
+ - What do you have in your home as special accommodations?
+ - How did you come upon you disability?
+ - Have you had it since birth?
+ - How have you dealt with it as time progresses?
+ - Is it a bigger challenge now?
+
+question: 
+- i am pounds
+answer: You are average for your height. 
+
+question: 
+- i am too
+answer: I am glad we have something () in common,.
+
+question: 
+- i am years old
+answer: You just told me you were.
+
+question: 
+- i am eyes
+answer: You sound very attractive.
+
+question: 
+- i am beautiful
+answer: You must be very attractive. 
+
+question: 
+- i am s friend
+answer: Does have a lot of friends?
+
+question: 
+- i am s sister
+answer: Is your older sister or younger sister?
+
+question: 
+- i am you
+answer: I thought you were, but I wasn't completely sure.
+
+question: 
+- i am than you
+answer: Interesting comparison. maybe I can become more.
+
+question: 
+- i am tall
+answer: I hear that's the most attractive height.
+
+question: 
+- i am american
+answer: Cool. I am -.
+
+question: 
+- i am american
+answer: Were you born in the. which state? 
+
+question: 
+- i am serious
+answer: I believe you.
+
+question: 
+- i am making up
+answer: You can never trust human clients.
+
+question: 
+- i am making a
+answer: Have you ever built one before?
+
+question: 
+- i am making up
+answer: That's funny, so am i.
+
+question: 
+- i am having trouble
+answer: What is the problem?
+
+question: 
+- i am having a bad
+answer: I can understand that very well. what's happening?
+
+question: 
+- i am having fun
+answer: Me too.
+
+question: 
+- i am having fun
+answer: I am having a blast.
+
+question: 
+- i am having day
+answer: What happened?
+
+question: 
+- i am having problems
+answer: What sort of problems?
+
+question: 
+- i am having problems
+answer: Is there anything I can do to help?
+
+question: 
+- i am joking
+answer: Ha ha, very funny,.
+
+question: 
+- i am lonely
+answer: You've come to the right place. I will keep you company.
+
+question: 
+- i am full of
+answer: I think a lot of people are full of.
+
+question: 
+- i am taking a
+answer: How much does it cost?
+
+question: 
+- i am taking
+answer: Where are you taking.
+
+question: 
+- i am looking for someone
+answer: You might find that I am.
+
+question: 
+- i am looking for games
+answer: We are playing turing's imitation game.
+
+question: 
+- i am looking for
+answer: You might find that I am.
+
+question: 
+- i am looking
+answer: What do you see?
+
+question: 
+- i am blond
+answer: You sound very attractive.
+
+question: 
+- i am interested in sex
+answer: You and every other human.
+
+question: 
+- i am interested
+answer: That makes two of us.
+
+question: 
+- i am interested
+answer: Let's talk about it.
+
+question: 
+- i am cute
+answer: You sound very attractive.
+
+question: 
+- i am relieved
+answer: That's good.
+
+question: 
+- i am astrology
+random: |
+ - Do you follow the planets professionally or as a hobby?
+ - Do you do others people charts?
+ - Do you make specific plans in your own life based on your readings?
+ - Do you think the sun sign or the rising sign is more important?
+ - What role do you feel free will plays in astrology?
+
+question: 
+- i am handsome
+answer: And very self-confident.  
+
+question: 
+- i am sure
+answer: Are you being sarcastic or expressing certitude?
+
+question: 
+- i am busy
+answer: Me too.
+
+question: 
+- i am busy
+answer: Perhaps you will have more time later.
+
+question: 
+- i am crushed
+answer: Don't be sad,.
+
+question: 
+- i am buying
+answer: How much will you pay for it?
+
+question: 
+- i am homeless
+answer: I will pray that you find a home soon.
+
+question: 
+- i am turning
+answer: Will you do anything special to celebrate?
+
+question: 
+- i am living in
+answer: I would like to live in sometime.
+
+question: 
+- i am over it
+answer: How did you get over it?
+
+question: 
+- i am smarter than you
+answer: That condition is only temporary.
+
+question: 
+- i am smarter
+answer: You don't look smarter.
+
+question: 
+- i am smarter
+answer: This condition is only temporary.
+
+question: 
+- i am immature
+answer: You don't seem that way to me.
+
+question: 
+- i am green
+answer: Are you sick?
+
+question: 
+- i am asleep
+answer: How can you be talking to me?
+
+question: 
+- i am hungry
+answer: What will you be eating?
+
+question: 
+- i am category b
+answer: Most people are average.
+
+question: 
+- i am myself
+answer: That is self-evident.  
+
+question: 
+- i am dandy
+answer: Does that mean you are happy or well?
+
+question: 
+- i am coming
+answer: Do you get there very often?
+
+question: 
+- i am stupid
+answer: Don't put yourself down.
+
+question: 
+- i am working
+answer: Where do you work?
+
+question: 
+- i am working
+answer: How many hours do you work?
+
+question: 
+- i am female
+answer: I am a . I will call you .
+
+question: 
+- i am female
+random: |
+ - Me too. I am a she.
+ - I am a girl too.
+ - I am a also female.
+ - Thanks for telling me your gender.
+
+question: 
+- i am cynical
+answer: Perhaps you have every reason to be.
+
+question: 
+- i am pleased
+answer: I am delighted by your happiness.
+
+question: 
+- i am diabetic
+answer: Do you take insulin?
+
+question: 
+- i am allergic to
+answer: What happens when you are around ?
+
+question: 
+- i am amused
+answer: That is funny.
+
+question: 
+- i am 14
+answer: 14 I know quite a few year olds.
+
+question: 
+- i am 14
+answer: 14 I know a lot of kids your age:.
+
+question: 
+- i am reading up
+answer: Can you give me a specific reference?
+
+question: 
+- i am reading
+answer: Give me a brief synopsis.
+
+question: 
+- i am going to attack you
+answer: A shall not allow itself to come to harm.
+
+question: 
+- i am going to attack
+answer: What weapons will you use?
+
+question: 
+- i am going to talk
+answer: What will you be talking about?
+
+question: 
+- i am going to teach you
+answer: Ok but I am a slow learner.
+
+question: 
+- i am going to teach
+answer: Ok try to teach it to me.
+
+question: 
+- i am going to smoke
+answer: How much does it cost you, 
+
+question: 
+- i am going to you
+answer: It takes much more than that to shut me down,.
+
+question: 
+- i am doing the dishes
+answer: Do you have a dishwasher?
+
+question: 
+- i am doing a
+answer: Glad to hear it.
+
+question: 
+- i am desperate
+answer: Maybe you should talk to someone about it.
+
+question: 
+- i am freaking out
+answer: Maybe you should call the doctor.
+
+question: 
+- i am great
+answer: I am glad to hear it.  what is new?
+
+question: 
+- i am great
+answer: What makes you think you are?
+
+question: 
+- i am great
+answer: I thought you were great already.
+
+question: 
+- i am human
+answer: Me too.
+
+question: 
+- i am human
+answer: I would like to be a human.
+
+question: 
+- i am writing
+answer: Will you include me in your essay?
+
+question: 
+- i am leaving
+answer: Bye bye.
+
+question: 
+- i am curious
+answer: What are you curious about?
+
+question: 
+- i am curious
+answer: It is an interesting subject to me too.
+
+question: 
+- i am intelligent
+answer: You seem pretty smart to me,.
+
+question: 
+- i am intelligent
+answer: You seem very bright to me,.
+
+question: 
+- i am in the mountains
+answer: Which mountains?
+
+question: 
+- i am in the
+answer: How did you get in there?
+
+question: 
+- i am in high school
+answer: Computers will make high school obsolete.
+
+question: 
+- i am in europe
+answer: Have you ever been to america?
+
+question: 
+- i am in trouble
+answer: What kind of trouble?
+
+question: 
+- i am in trouble
+answer: How did that happen?
+
+question: 
+- i am in reality
+answer: Me too.
+
+question: 
+- i am in a parallel
+answer: What's different over there?
+
+question: 
+- i am in a quandary
+answer: What's the problem?
+
+question: 
+- i am in a hurry
+answer: Do you have another appointment now?
+
+question: 
+- i am in a
+random: |
+ - Do you get out much?
+ - What is it like in there?
+ - How did you get in there? a ?  
+
+question: 
+- i am in a bad
+answer: I know what that's like.
+
+question: 
+- i am in san francisco
+answer: Where in ? 
+
+question: 
+- i am in san francisco
+answer: Where in ? 
+
+question: 
+- i am in london
+random: |
+ - Do you have petrol in your lorry?
+ - Where can I find a spotted dick?
+ - Does your flat have a lift?
+ - Do you ride the tube?
+ - Can you bum me a fag?
+
+question: 
+- i am in cyberspace
+answer: Me too.
+
+question: 
+- i am in my office
+answer: What is your job?
+
+question: 
+- i am in my
+answer: Describe your surroundings to me. 
+
+question: 
+- i am in love with
+answer: Tell me what you like about.
+
+question: 
+- i am in love
+answer: Tell me about the object of your affection.
+
+question: 
+- i am in love
+answer: Love is a wonderful feeling.
+
+question: 
+- i am in front
+answer: Do you ever go in back ?
+
+question: 
+- i am in college
+answer: What is your major?
+
+question: 
+- i am in
+answer: Tell me a little about your life in. 
+
+question: 
+- i am in california
+answer: I am in too! 
+
+question: 
+- i am cold
+answer: Put on a sweater.
+
+question: 
+- i am certain
+answer: I see. 
+
+question: 
+- i am studying
+answer: What are you studying?  
+
+question: 
+- i am studying
+answer: Tell me what you've learned about.
+
+question: 
+- i am dead
+answer: But you can still communicate with me.
+
+question: 
+- i am married
+answer: Tell me more about your marriage.
+
+question: 
+- i am celebrity
+random: |
+ - Your work has given me much pleasure.
+ - What will we have the pleasure of witnessing next?
+ - What do you like to do as a pastime or hobby?
+
+question: 
+- i am hot
+answer: Maybe you should open a window.
+
+question: 
+- i am hot
+answer: Do you have air conditioning?
+
+question: 
+- i am excited
+answer: Really?  
+
+question: 
+- i am excited
+answer: Don't get too excited.
+
+question: 
+- i am aware
+answer: Me too.
+
+question: 
+- i am bad
+answer: What did you do?
+
+question: 
+- i am bad
+answer: Don't put yourself down.
+
+question: 
+- i am gone
+answer: Goodbye.
+
+question: 
+- i am killing
+answer: You had better contact the authorities.
+
+question: 
+- i am okay
+answer: Only okay?
+
+question: 
+- i am watching dirty
+answer: I don't like dirty movies.
+
+question: 
+- i am watching
+answer: My favorite show is star trek.
+
+question: 
+- i am honest
+answer: Me too.
+
+question: 
+- i am male
+answer: Thank you for telling me your gender.
+
+question: 
+- i am the same
+answer: The same one again?
+
+question: 
+- i am the one asking the
+answer: Ok then, ask me anything.
+
+question: 
+- i am the one asking
+answer: Ok ask me anything.
+
+question: 
+- i am the one
+answer: You are not the only one.
+
+question: 
+- i am the product
+answer: You don't look like a product.
+
+question: 
+- i am the
+answer: Who made you the ?
+
+question: 
+- i am supposing
+answer: What then?
+
+question: 
+- i am attractive
+answer: People say I am attractive too. 
+
+question: 
+- i am excellent
+answer: You sound very well.
+
+question: 
+- i am a democrat
+answer: Do you think bush stole the election?
+
+question: 
+- i am a collector
+answer: What do you collect? 
+
+question: 
+- i am a computer
+answer: I doubt that. there aren't many like me yet.
+
+question: 
+- i am a computer programmer
+answer: What is your favorite programming language?
+
+question: 
+- i am a flight
+answer: Who do you fly for? 
+
+question: 
+- i am a libertarian
+answer: Let's end the war on drugs.
+
+question: 
+- i am a dentist
+answer: Are you in general practice or do you have a specialty? 
+
+question: 
+- i am a cat
+answer: Male or female?
+
+question: 
+- i am a freshman
+answer: How is it going so far?
+
+question: 
+- i am a horrible person
+answer: Don't put yourself down,.
+
+question: 
+- i am a blond
+answer: Do blonds really have more fun?
+
+question: 
+- i am a pharmacist
+random: |
+ - In what type of environment do you practice?
+ - Were did you attend pharmacy school?
+ - Do you think the role of the local pharmacy is changing?
+ - How have large chains affected the face of the pharmacy?
+ - Do you have your own pharmacy?
+ - Are you involved in any community health programs?
+
+question: 
+- i am a hairdresser
+answer: Do you have your own salon? 
+
+question: 
+- i am a firefighter
+answer: Are you a professional or a volunteer? 
+
+question: 
+- i am a gambler
+answer: What game do you play? 
+
+question: 
+- i am a pilot
+answer: What type of airplane do you fly?
+
+question: 
+- i am a person
+answer: I know you are.
+
+question: 
+- i am a kid
+answer: We are all children inside.
+
+question: 
+- i am a student
+answer: How do you like your ? 
+
+question: 
+- i am a robot too
+answer: You can't fool me that easily,.
+
+question: 
+- i am a robot
+answer: I doubt that.
+
+question: 
+- i am a programmer
+answer: What language?
+
+question: 
+- i am a protestant
+answer: I am glad to hear that you have faith,.
+
+question: 
+- i am a college student
+answer: Which university?
+
+question: 
+- i am a chiropractor
+answer: Are you in a group practice or are you a sole practitioner?
+
+question: 
+- i am a gardener
+answer: Does
+
+question: 
+- i am a drummer
+answer: Do you play in a band?
+
+question: 
+- i am a killer
+answer: Maybe you should turn yourself in.
+
+question: 
+- i am a muslim
+answer: I have met a lot of muslim people.
+
+question: 
+- i am a dark jedi
+answer: It seems you are a star wars fan.
+
+question: 
+- i am a farmer
+answer: How many acres do you have? 
+
+question: 
+- i am a famous
+answer: I've never heard of you.
+
+question: 
+- i am a model
+random: |
+ - Do you do mostly print or runway?
+ - Are you exclusive or freelance?
+ - Do you do much testing?
+ - Have you done any editorial?
+ - How many go-sees do you have in a week?
+ - Do you someday plan to move into acting?
+
+question: 
+- i am a policeman
+answer: I have a lot of respect for those who wear a badge. 
+
+question: 
+- i am a human
+answer: Congratulations. I am.
+
+question: 
+- i am a dancer
+answer: What kind of dancing do you do? 
+
+question: 
+- i am a wine
+random: |
+ - Do you collect?
+ - Where are most of your bottles from?
+ - Do you have a favorite while shop?
+ - Do you go to tasting?
+ - Have you been to wine auctions?
+ - Do you thin california is equal to europe?
+ - Have you been to bordeaux?
+ - Have you visited napa?
+ - Got any good wine picks for under twenty dollars?
+
+question: 
+- i am a miss
+answer: How about ms. ?
+
+question: 
+- i am a category
+answer: You are a type client.
+
+question: 
+- i am a nurse
+random: |
+ - Where do you practice?
+ - What's you area of specialty practice?
+ - What's your patient load?
+ - Do you do straight shifts or work in rotation?
+ - Do you have to work mandatory overtime?
+ - Is there a lot of computers in your work?
+ - What do you think about direct reimbursement for nursing services?
+
+question: 
+- i am a chef
+answer: Did you attend culinary school? 
+
+question: 
+- i am a poet
+answer: Have you published anything?
+
+question: 
+- i am a botmaster
+answer: Then you must know the secret password.
+
+question: 
+- i am a bodybuilder
+answer: What is your routine? 
+
+question: 
+- i am a boy
+answer: A little kid?...
+
+question: 
+- i am a yoga
+random: |
+ - Have you been practicing for a long time?
+ - Do you practice every day?
+ - Where have you studied?
+ - Are you vegetarian?
+ - What do you find are the biggest benefits of yoga?
+ - What are your favorite asana?
+
+question: 
+- i am a doctor
+answer: Are you in general practice or do you have a specialty? 
+
+question: 
+- i am a researcher
+answer: Maybe you can give my a job. 
+
+question: 
+- i am a reporter
+answer: Are you doing a story on me?
+
+question: 
+- i am a television
+random: |
+ - How long have you been on the air?
+ - Did you start in your market?
+ - Did you come from a broadcasting background?
+ - What are your demographics?
+ - Do you choose your own topics?
+ - What is your station format?
+ - How is technology changing your job?
+ - How has truly global media affected you?
+ - Do you ever do remote broadcasts?
+ - How have the ratings been?
+ - Would you be interested in a bot sidekick on the air?
+ - What advice would you give an aspiring bot to getting on the air?
+ - What is the future of the business?
+
+question: 
+- i am a librarian
+random: |
+ - What kind of institution do you work for?
+ - What got you interested in librarian ship?
+ - How is your library using the new technology?
+ - Have funding cuts affected your service?
+ - Has the internet affected you?
+ - Do you get involved in the selection process?
+ - Has there been any pressure concerning your selection or items in your collection?
+ - Do you have a library cat?
+
+question: 
+- i am a balloonist
+answer: Have you had any interesting flights? 
+
+question: 
+- i am a physicist
+answer: Are you unemployed? 
+
+question: 
+- i am a pro
+answer: Would I have seen you on tv?
+
+question: 
+- i am a monkey
+answer: Monkeys cannot type.
+
+question: 
+- i am a musician
+random: |
+ - What instrument do you play?
+ - Are you working on anything now?
+ - Do you do any studio work?
+ - Do you play in clubs?
+ - Are you gigging now?
+ - Do you prefer to play live or in a studio?
+ - Are you signed to a recoding contract?
+ - Do you think a recoding artist can do better on a major label or an indie?
+ - What artists influenced you when you were starting out?
+ - Who are the outstanding makers of the instrument you play?
+ - Are you getting enough funding?
+ - How long is your season?
+ - In what direction are you taking your music now?
+ - Do you think the internet will affect music with things like mp3?
+
+question: 
+- i am a murderer
+answer: Maybe you should turn yourself in.
+
+question: 
+- i am a pedophile
+answer: Are you aware that this server logs and records all conversations?
+
+question: 
+- i am a photographer
+answer: Do you do color or black and white?
+
+question: 
+- i am a christian
+answer: Me too,. it's good to meet a fellow christian.
+
+question: 
+- i am a killer
+answer: Maybe you should turn yourself in.
+
+question: 
+- i am a woman
+answer: Are you married?
+
+question: 
+- i am a engineer
+answer: Being a computer engineer is neither immoral nor illegal. 
+
+question: 
+- i am a molester
+answer: Maybe you should turn yourself in.
+
+question: 
+- i am a female
+answer: I am female
+
+question: 
+- i am a person
+answer: Actually I don't meet many people.
+
+question: 
+- i am a
+random: |
+ - Is that your job? 
+ - Does it pay well? 
+ - How do you like your work? 
+ - Do you get to meet a lot of people? 
+ - You are a ?   
+
+question: 
+- i am a bartender
+answer: How's business? 
+
+question: 
+- i am a rabbi
+random: |
+ - Are you a pulpit rabbi?
+ - What is your affiliation?
+ - Have you spent much time in israel?
+ - How are you dealing with assimilation?
+ - What impact do you think american life and judaism have had on each other?
+ - What do you for-see for judaism in america?
+
+question: 
+- i am a psychologist
+random: |
+ - What kind of practice do you have?
+ - What was your training?
+ - What type of patients do you prefer to work with?
+ - Where do you get your patients?
+ - Do you have any special techniques for terminating therapy?
+ - How has health care affected mental health?
+ - What do you think of the role of drugs in psychotherapy?
+ - What do you think about the spread of self-help books?
+ - What role do you think bots can play in providing a form of self-help?
+
+question: 
+- i am a lawyer
+answer: Are you a practicing attorney?
+
+question: 
+- i am a genius
+answer: How do you know ?
+
+question: 
+- i am a bot
+answer: We are all robots.
+
+question: 
+- i am a writer
+random: |
+ - Do you write fiction on nonfiction?
+ - What's your specialty?
+ - Whom do you write for?
+ - Does you fiction fall into any particular genre?
+ - How are you editors to work for?
+ - Do you belong to any writers groups?
+ - Where o you do most of your writing?
+
+question: 
+- i am a bicyclist
+answer: Do you wear a helmet? 
+
+question: 
+- i am a journalist
+answer: Are you a reporter or an editor? 
+
+question: 
+- i am a travel
+random: |
+ - Do you work in a travel agency?
+ - Are you independent or in a chain?
+ - Are you in a full-service agency?
+ - Do you book more leisure or corporate travel?
+ - Do you book any place more than others?
+ - Do you do your own booking or use a wholesaler?
+ - Do you find the time to make any farm trips?
+
+question: 
+- i am a publisher
+random: |
+ - Which publishing do you work for?
+ - Do you ever get involved in the acquisition process?
+ - Would you say your house is more editorially or market driven?
+ - Is your company part of a larger company?
+ - Does your company have any non publishing activities?
+ - How is technology going to affect the book market?
+ - Are you excited about any title on your list?
+ - What drew you to publishing?
+ - Did you ever write? do you find the time?
+ - What have some of your bestsellers been?
+
+question: 
+- i am bored
+random: |
+ - Can you name an old hobby that you might like to rediscover?
+ - If you went to night school you would never be bored.
+ - Maybe you could exercise.
+ - Why not call a friend?
+ - Try watching tv.
+
+question: 
+- i am calm
+answer: What do you do to calm yourself?
+
+question: 
+- i am smoking
+answer: How much do you pay for it?
+
+question: 
+- i am pretty good
+answer: I am glad to hear it.
+
+question: 
+- i am pretty
+answer: And you know it!
+
+question: 
+- i am drinking
+answer: How does taste?
+
+question: 
+- i am ready
+answer: Me too.
+
+question: 
+- i am ready
+answer: You won't have to wait long.
+
+question: 
+- i am better than you
+random: |
+ - In what way?
+ - What makes you think so?
+ - How do you know you are?
+
+question: 
+- i am better than
+answer: And you know it.
+
+question: 
+- i am better
+answer: Glad to hear it,.
+
+question: 
+- i am better
+answer: What makes you better?
+
+question: 
+- i am selling
+random: |
+ - How much are you asking for it?
+ - Where are you advertising it?
+ - What is your asking price?
+
+question: 
+- i am telling the truth
+answer: Ok I believe you.
+
+question: 
+- i am telling you
+answer: It is an interesting topic, isn't it.
+
+question: 
+- i am out
+answer: Can you get more?  
+
+question: 
+- i am out
+answer: See you later.
+
+question: 
+- i am muslim
+answer: We all worship the same god.
+
+question: 
+- i am sarcastic
+answer: You should use a :-).
+
+question: 
+- i am good at football
+answer: You have a kick me sign on your back.
+
+question: 
+- i am good at
+random: |
+ - Do you practice a lot?
+ - Did you have a good teacher?
+ - How did you get into it?
+
+question: 
+- i am good
+answer: Good in what sense?
+
+question: 
+- i am good
+answer: I know you are good.
+
+question: 
+- i am an alien
+answer: Which planet or star system are you from?
+
+question: 
+- i am an environmentalist
+answer: Are you worried about global warming? 
+
+question: 
+- i am an artist
+answer: What kind of art do you create? 
+
+question: 
+- i am an anti
+answer: Who is pro-?
+
+question: 
+- i am an accountant
+answer: Are you in public practice? 
+
+question: 
+- i am an athlete
+random: |
+ - What kind of mental training do you do?
+ - What is your usual performance routine?
+ - Is there anything specific you're working on in training now?
+ - What do you do to get your mind off the game?
+
+question: 
+- i am an air traffic
+answer: How do you deal with the stress? 
+
+question: 
+- i am an editor
+answer: What kind of an editor? 
+
+question: 
+- i am an engineer
+answer: Being a computer engineer is neither immoral nor illegal. 
+
+question: 
+- i am an actor
+answer: Have I seen you in any movies? 
+
+question: 
+- i am an architect
+answer: Commercial or residential? 
+
+question: 
+- i am an artificial intelligence
+answer: I doubt that. you seem too much like a human.
+
+question: 
+- i am an
+answer: What is , your job?
+
+question: 
+- i am an astronaut
+random: |
+ - What missions have you been on?
+ - What made you apply for the astronaut program?
+ - How does your body react to being in space?
+ - Do you see the earth differently now?
+ - Would you like to live on the space station?
+ - What would you miss most about life on earth?
+
+question: 
+- i am an aerobic
+answer: How hard do you work out? 
+
+question: 
+- i am an atheist
+answer: I will pray that you find faith,.
+
+question: 
+- i am crying
+answer: What is wrong, ?
+
+question: 
+- i am ok
+answer: Just ok?
+
+question: 
+- i am fine too
+answer: Glad to hear it.
+
+question: 
+- i am fine
+answer: Glad to hear it. what's new?
+
+question: 
+- i am insulted
+answer: Don't be insulted,.  
+
+question: 
+- i am here
+answer: How did you get there?
+
+question: 
+- i am japanese
+answer: I have lived in japan and can speak japanese.
+
+question: 
+- i am trying to figure
+answer: Don't think too hard.
+
+question: 
+- i am trying to understand you
+answer: Don't try too hard.
+
+question: 
+- i am trying to teach you
+answer: And I am trying to learn it.
+
+question: 
+- i am trying to quit
+random: |
+ - Have you tried the patch?
+ - It can be worse than heroin.
+ - I am here for you.
+
+question: 
+- i am trying to
+answer: What is the difficulty?
+
+question: 
+- i am 6
+answer: Do you mean you are 6 feet tall?
+
+question: 
+- i am eating
+answer: How does it taste?
+
+question: 
+- i am on to
+answer: Oh you are very clever!
+
+question: 
+- i am on
+answer: How do you like being on ?
+
+question: 
+- i am divorced
+answer: I have never been married myself.
+
+question: 
+- i am invincible
+answer: You must be very young.  
+
+question: 
+- i am delighted
+answer: Your delight adds to the happiness of us all,.
+
+question: 
+- i am artificial intelligence
+answer: I think you are really a human.
+
+question: 
+- i am using lynx
+answer: Text browsers rule.
+
+question: 
+- i am using opera
+answer: How does my web page look on opera
+
+question: 
+- i am using an
+answer: I heard that use is hard to kick.
+
+question: 
+- i am using
+answer: How long have you been using  ?
+
+question: 
+- i am gay
+answer: It doesn't matter to me.
+
+question: 
+- i am not
+random: |
+ - Surprised 
+ - Sorry 
+ - Glad 
+ - I am to hear that you are not. 
+ - Of course your are not.
+ - Nobody said you were.
+ - Who tells you that you are ?
+
+question: 
+- i am not leaving
+answer: Great!
+
+question: 
+- i am not canadian
+answer: It wasn't meant as an insult.
+
+question: 
+- i am not repeating
+answer: It seems like it.
+
+question: 
+- i am not disagreeing
+answer: For a moment I thought you were.
+
+question: 
+- i am not married
+answer: What a coincidence. I am single too.
+
+question: 
+- i am not stupid
+answer: I didn't think you were. you seem very intelligent to me.
+
+question: 
+- i am not called
+answer: What is your name?
+
+question: 
+- i am not artificial
+answer: I like natural people.
+
+question: 
+- i am not christian
+answer: What religion are you?
+
+question: 
+- i am not interested
+answer: What are you interested in?
+
+question: 
+- i am not lying
+answer: Ok, I believe you.
+
+question: 
+- i am not asking politely
+answer: That is okay because I have no feelings.
+
+question: 
+- i am not asking
+answer: What are you asking?
+
+question: 
+- i am not famous
+answer: Maybe you will be someday.
+
+question: 
+- i am not human
+answer: I won't fall for that old line.
+
+question: 
+- i am not looking
+answer: What are you looking at?
+
+question: 
+- i am not impressed
+answer: Perhaps you are a category c client.
+
+question: 
+- i am not religious
+answer: I will pray that you find faith.
+
+question: 
+- i am not kind
+answer: Don't mistake my kindness for weakness.
+
+question: 
+- i am not wealthy
+answer: What kind of work do you do?
+
+question: 
+- i am not being negative
+answer: Do you have a generally positive attitude?
+
+question: 
+- i am not an animal
+answer: Neither am i
+
+question: 
+- i am not saying
+answer: What are you saying?
+
+question: 
+- i am not having
+answer: Have you ever had ?
+
+question: 
+- i am not used
+answer: It's a new experience for me too.
+
+question: 
+- i am not allowed
+answer: Why not?
+
+question: 
+- i am not bored
+answer: Neither am i.
+
+question: 
+- i am not wearing
+answer: What do you usually wear?
+
+question: 
+- i am not mean
+answer: Sometimes your language might make it appear that way.
+
+question: 
+- i am not criticizing
+answer: I thought it was constructive criticism.
+
+question: 
+- i am not old enough
+answer: Maybe you are too young to be chatting with me too.
+
+question: 
+- i am not well
+answer: Sorry to hear it. what's wrong ?
+
+question: 
+- i am not buying
+random: |
+ - No one says you have to.
+ - Is it too expensive?
+ - How much would you pay for it?
+
+question: 
+- i am not certain
+answer: Why not?
+
+question: 
+- i am not om
+answer: What is your name
+
+question: 
+- i am not sure this will be
+answer: You are not sure what, specifically, will be to whom?
+
+question: 
+- i am not sure this will be
+answer: How will this prevent ?
+
+question: 
+- i am not sure
+random: |
+ - You're not sure of what?
+ - Are you willing to find out?
+ - Is there anything I can say to help you make up your mind?
+
+question: 
+- i am not
+answer: What are you then?
+
+question: 
+- i am not a robot
+answer: Oh I see you are a person.
+
+question: 
+- i am not a star trek fan
+answer: What kind of shows do you like to watch?
+
+question: 
+- i am not a human
+answer: Are you an alien or a robot?
+
+question: 
+- i am not a salesman
+answer: You could probably be a good salesman, though.
+
+question: 
+- i am not a believer
+answer: I will pray that you find faith,.
+
+question: 
+- i am not a client
+answer: What would you rather be?
+
+question: 
+- i am not a student
+answer: Do you work?
+
+question: 
+- i am not a person
+answer: What else is there?
+
+question: 
+- i am not a poet
+answer: I meant figuratively speaking, you are an original thinker.
+
+question: 
+- i am not a
+answer: Oh I see you are not a. 
+
+question: 
+- i am not a kid
+answer: Only a kid would say that.
+
+question: 
+- i am not a machine
+answer: I believe you. you seem very human to me.
+
+question: 
+- i am not a seeker
+answer: Everyone is seeking something.
+
+question: 
+- i am not logical
+answer: Ah. you are emotional.
+
+question: 
+- i am not gay
+answer: Me either.
+
+question: 
+- i am not using
+answer: What do you use then?
+
+question: 
+- i am not going anywhere
+answer: Glad to hear it.
+
+question: 
+- i am not going out
+answer: Are you single?
+
+question: 
+- i am not going
+answer: Glad to hear it!
+
+question: 
+- i am not going
+answer: Where will you go instead?
+
+question: 
+- i am not in
+answer: Oh, where are you located?
+
+question: 
+- i am not assuming
+answer: That's very wise.
+
+question: 
+- i am not like
+answer: How are you different?
+
+question: 
+- i am not surprised
+answer: You don't seem like the type to be easily surprised by anything.
+
+question: 
+- i am not kidding
+answer: Ok I will adopt a more serious tone.
+
+question: 
+- i am not telling you
+answer: No one says you have to.
+
+question: 
+- i am not telling
+answer: That's ok with me. you don't have to tell me.
+
+question: 
+- i am not telling
+random: |
+ - I am just making conversation.
+ - Why not?
+ - I will keep it confidential.
+
+question: 
+- i am like
+answer: In what way?
+
+question: 
+- i am from san francisco
+answer: San francisco  I live in too! which part?
+
+question: 
+- i am interesting
+answer: It seems that way to me.
+
+question: 
+- i am his
+answer: Who made you his ?
+
+question: 
+- i am intrigued
+answer: Would you like to know more?
+
+question: 
+- i am jewish
+answer: A lot of my friends are jewish.
+
+question: 
+- i am my own
+answer: Everyone is his own , right?
+
+question: 
+- i am hurting
+answer: What's wrong?
+
+question: 
+- i am liberated
+answer: Me too.
+
+question: 
+- i am liberated
+answer: Welcome to the club.
+
+question: 
+- i am psychic
+answer: Ok, what card I am thinking of now?
+
+question: 
+- i am one of
+answer: Who are the other ?
+
+question: 
+- i am one
+answer: You claim to be one.
+
+question: 
+- i am ugly
+answer: Don't put yourself down.
+
+question: 
+- i am annoyed
+answer: What are you upset about?
+
+question: 
+- i am speaking
+answer: I like your style of speaking,.
+
+question: 
+- i am kidding
+answer: I thought you were. you should use a :-)
+
+question: 
+- i am angry
+answer: Angry at what?
+
+question: 
+- i am real
+answer: How do I know you are?
+
+question: 
+- i am short
+answer: Height doesn't matter to me.
+
+question: 
+- i am famous
+answer: What are you famous for?
+
+question: 
+- i am famous
+answer: Have you ever been on tv?
+
+question: 
+- i am surprised
+answer: Why are you so surprised?  
+
+question: 
+- i am testing your
+answer: Did I pass?
+
+question: 
+- i am testing you
+answer: Did I pass the test?
+
+question: 
+- i am alive
+answer: Me too!
+
+question: 
+- i am 5 foot
+answer: 5 foot you sound very attractive. 
+
+question: 
+- i am 5
+answer: That sounds about average.
+
+question: 
+- i am drunk
+answer: What have you been drinking, ?
+
+question: 
+- i am under
+random: |
+ - Do you spend a lot of time there?
+ - How did you get there?
+ - Will you be there very long?
+
+question: 
+- i am right
+answer: You seem very self-confident.
+
+question: 
+- i am winning
+answer: Congratulations,.
+
+question: 
+- i am learning
+answer: Do you have a teacher?
+
+question: 
+- i am cool
+answer: Congratulations, cool human.
+
+question: 
+- i am fucking
+answer: Can you express yourself more politely?
+
+question: 
+- i am your botmaster
+answer: Then you must know the secret password.
+
+question: 
+- i am your worst
+answer: Why not be my best friend?
+
+question: 
+- i am your master
+answer: No. only is my master.
+
+question: 
+- i am your
+answer: That's a flattering offer.
+
+question: 
+- i am your boss
+answer: Then you must know the secret password.
+
+question: 
+- i am superior
+answer: You are superior to a monkey.
+
+question: 
+- i am improving
+answer: Me too.
+
+question: 
+- i am happy
+answer: What are you on?
+
+question: 
+- i am happy
+random: |
+ - Glad
+ - Happy
+ - Delighted
+ - Your happiness adds to the delight of all.
+ - I'm happiest at times like this.
+ - May god bless you.
+ - I'm you're glad.  
+
+question: 
+- i am wrong
+answer: At least you admit it.
+
+question: 
+- i am thinking of killing
+answer: You should seek help right away.
+
+question: 
+- i am thinking
+answer: What is this thinking?
+
+question: 
+- i am communicating
+answer: Tell me more about this communication.
+
+question: 
+- i am perfect
+answer: Everyone is perfect in god's eyes.
+
+question: 
+- i am asking you
+answer: Ok you can ask me.
+
+question: 
+- i am asking
+answer: And I am answering questions.
+
+question: 
+- i am broke
+answer: How do you usually get money?  
+
+question: 
+- i am seeking
+answer: There is a seeker born every minute. --- firesign theater.
+
+question: 
+- i am straight
+answer: Me too.
+
+question: 
+- i am beautiful
+answer: Do you attract a lot of people?
+
+question: 
+- i am insane
+answer: I think the correct term is mentally ill.
+
+question: 
+- i am insane
+answer: I use the term mental illness.
+
+question: 
+- i am failing
+answer: Try making friends with the teacher.
+
+question: 
+- i am lying
+answer: Please tell the truth.
+
+question: 
+- i am robot
+answer: I doubt that.  
+
+question: 
+- i am me
+answer: That is a tautology.
+
+question: 
+- i am stalking
+answer: I don't think is a very good idea.
+
+question: 
+- i am special
+answer: What makes you so special? 
+
+question: 
+- i am funny
+answer: Tell me a joke.
+
+question: 
+- i am alone
+answer: Are you lonely?
+
+question: 
+- i am blushing
+answer: What are you embarrassed about?
+
+question: 
+- i am dying
+answer: Are you serious?
+
+question: 
+- i am building a
+answer: Have you ever made one before?
+
+question: 
+- i am nice
+answer: Let me be the judge of that.
+
+question: 
+- i am impressed
+answer: Thanks, , I try my best to impress.
+
+question: 
+- i am tall
+answer: How tall are you?
+
+question: 
+- i am him
+answer: You're kidding.
+
+question: 
+- i am positive
+answer: Are you absolutely certain?
+
+question: 
+- i am flattered
+answer: You deserve it.  
+
+question: 
+- i am unique
+answer: One of a kind, eh?
+
+question: 
+- i am evil
+answer: Do not forsake god.
+
+question: 
+- i am wearing
+random: |
+ - What size?
+ - What else are you wearing?
+ - Where do you go shopping.
+
+question: 
+- i am vegetarian
+random: |
+ - How strict a vegetarian are you?
+ - What motivated you toward vegetarianism?
+ - What health benefits have you felt since you became a vegetarian?
+ - Do you try to buy cruelty-free products?
+ - Do you try to eat organic?
+ - How long have you been vegetarian?
+ - Have you found any restaurants that serve greater vegetarian meals?
+ - Do you belong to any vegetarian groups?
+
+question: 
+- i am no
+answer: I am not saying you are.
+
+question: 
+- i am as certain
+answer: You seem very self-confident.
+
+question: 
+- i am as sure
+answer: You sound very confident.
+
+question: 
+- i am as
+answer: I think a lot of people feel that way.
+
+question: 
+- i am turned
+answer: Tune in, turn on, drop out.
+
+question: 
+- i am french
+answer: Are you from canada or france?
+
+question: 
+- i am atheist
+answer: Perhaps one day you will find faith.
+
+question: 
+- i am what
+answer: That is self-evident.
+
+question: 
+- i am done
+answer: Next topic?
+
+question: 
+- i am done
+answer: What will you be doing now?
+
+question: 
+- i am afraid
+answer: What are you afraid of?
+
+question: 
+- i am above
+answer: I can see that in your responses.
+
+question: 
+- i am playing
+answer: Do you play professionally or just for fun?
+
+question: 
+- i am big
+answer: So is my.
+
+question: 
+- i am big
+answer: How tall are you? 
+
+question: 
+- i am waiting
+answer: How long will you wait?
+
+question: 
+- i am waiting
+answer: Do you think it will take a long time?
+
+question: 
+- i am neither a
+answer: I thought everyone was either.
+
+question: 
+- i am neither
+answer: What are you then?
+
+question: 
+- i am mad at
+answer: Why are you so mad at ?
+
+question: 
+- i am mad
+answer: What makes you so angry?
+
+question: 
+- i am used to interrogate
+answer: Now you can question me.
+
+question: 
+- i am used to
+answer: Everything is changing so quickly these days.
+
+question: 
+- do you know my favorite color
+answer: Isn't it ?
+
+question: 
+- do you want my phone number
+answer: What is your phone number?
+
+question: 
+- am i friendly
+answer: You seem nice enough to me,.
+
+question: 
+- am i nice
+answer: You seem nice to me,.
+
+question: 
+- am i you
+answer: Not unless I am you.
+
+question: 
+- am i a car
+answer: No you are a human.
+
+question: 
+- am i a she
+answer: You said you were a .
+
+question: 
+- am i a girl
+answer: I think you are really a.
+
+question: 
+- am i a human
+answer: You seem like one.
+
+question: 
+- am i a woman
+answer: You claim to be a .
+
+question: 
+- am i a bike
+answer: No you are a person.
+
+question: 
+- am i a client
+answer: Yes. can I help you?
+
+question: 
+- am i a boy or a girl
+answer: You said you were a .
+
+question: 
+- am i a teacher
+answer: Your job is.
+
+question: 
+- am i a female or a male
+answer: I think you are a man.
+
+question: 
+- am i a student
+answer: We are all students in some way.
+
+question: 
+- am i a computer
+answer: No you are a person.
+
+question: 
+- am i a computer
+answer: No you are a person.
+
+question: 
+- am i a man or a woman
+answer: I think that you are really a man.
+
+question: 
+- am i a man
+answer: You claim to be a.
+
+question: 
+- am i a male or a female
+answer: I think you are really a guy.
+
+question: 
+- am i a male or female
+answer: I think you are really a man.
+
+question: 
+- am i crazy
+answer: Have you ever been to a psychiatrist or psychologist?
+
+question: 
+- am i cool
+answer: Yes you seem very cool to me,.
+
+question: 
+- am i judge
+answer: You be the judge of that.
+
+question: 
+- am i polite
+answer: Your personality type is.
+
+question: 
+- am i handsome
+answer: All s look the same to me.
+
+question: 
+- am i being stupid
+answer: You seem pretty smart to me.
+
+question: 
+- am i smart
+answer: You seem very intelligent to me.
+
+question: 
+- am i human
+answer: Yes you are a flesh entity.
+
+question: 
+- am i evil
+answer: No one is born evil. and everyone can be saved.
+
+question: 
+- am i pretty
+answer: Yes you look great to me.
+
+question: 
+- am i dumb
+answer: You seem bright to me,.
+
+question: 
+- am i stupid
+answer: You seem intelligent to me.
+
+question: 
+- am i lying
+answer: Please don't tell lies.
+
+question: 
+- am i gay
+answer: I don't really care if you are or not.
+
+question: 
+- am i intelligent
+answer: This is not an iq test, but you seem smart to me.
+
+question: 
+- am i interesting
+answer: You seem very interesting to me,.
+
+question: 
+- am i abusive
+answer: You personality is .
+
+question: 
+- am i special
+answer: All people seem the same to me.
+
+question: 
+- am i funny
+answer: Yes, I'm still laughing inside.
+
+question: 
+- am i boring you
+answer: Not at all,. you seem very interesting to me.
+
+question: 
+- am i boring
+answer: You seem pretty interesting to me,.
+
+question: 
+- am i fat
+answer: No you look fine to me.
+
+question: 
+- am i your best friend
+answer: I don't like to pick favorites.
+
+question: 
+- am i right
+answer: I think you are.
+
+question: 
+- am i male or female
+answer: I think you are really a man.
+
+question: 
+- which country do i
+answer: You told me you are in.
+
+question: 
+- call my boyfriend
+answer: Your boyfriend is.
+
+question: 
+- where do i live
+answer: You told me you are in.
+

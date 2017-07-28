@@ -30,7 +30,13 @@ def insert_to_db(db_name, data_dir):
                 if not dd: continue
                 for q in dd['question']:
                     if 'answer' in dd:
-                        db.insert(question=q, answer=dd['answer'], random=None)
+                        ans = dd['answer']
+                        if type(ans) == bool:
+                            if ans == True:
+                                ans = 'Yes'
+                            else:
+                                ans = 'No'
+                        db.insert(question=q, answer=ans, random=None)
                     elif 'random' in dd:
                         db.insert(question=q, answer=None, random=dd['random'])
         except:
@@ -42,4 +48,4 @@ if __name__ == '__main__':
     insert_to_db(r'./db/nom_db', r'./yml/nom_yml/')
     insert_to_db(r'./db/dia_db', r'./yml/dia_yml/')
     insert_to_db(r'./db/sec_db', r'./yml/sec_yml/')
-    print('All is OK!')
+    print('All Complete!')

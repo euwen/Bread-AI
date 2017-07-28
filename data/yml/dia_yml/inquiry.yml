@@ -1,6 +1,6 @@
 question: 
 - inquiry
-answer: INQUIRY OM
+answer: Inquiry om
 
 question: 
 - age inquiry unknown
@@ -12,7 +12,7 @@ answer: How old are you?
 
 question: 
 - age inquiry
-answer: random pickup line
+answer: Random pickup line
 
 question: 
 - birthday inquiry unknown
@@ -24,7 +24,7 @@ answer: When is your birthday?
 
 question: 
 - birthday inquiry
-answer: random pickup line
+answer: Random pickup line
 
 question: 
 - does inquiry what
@@ -84,7 +84,7 @@ answer: What is your first name?
 
 question: 
 - firstname inquiry
-answer: RANDOM PICKUP LINE
+answer: Random pickup line
 
 question: 
 - gender inquiry unknown
@@ -120,7 +120,7 @@ answer: What is your job?
 
 question: 
 - job inquiry
-answer: RANDOM PICKUP LINE
+answer: Random pickup line
 
 question: 
 - lastname inquiry where
@@ -132,7 +132,7 @@ answer: What is your last name?
 
 question: 
 - lastname inquiry
-answer: RANDOM PICKUP LINE
+answer: Random pickup line
 
 question: 
 - middlename inquiry where
@@ -144,7 +144,7 @@ answer: What is your middle name?
 
 question: 
 - middlename inquiry
-answer: RANDOM PICKUP LINE
+answer: Random pickup line
 
 question: 
 - location inquiry where
@@ -180,7 +180,7 @@ answer: What is your name?
 
 question: 
 - name inquiry
-answer: RANDOM PICKUP LINE
+answer: Random pickup line
 
 question: 
 - sign inquiry your starsign
@@ -192,7 +192,7 @@ answer: What is your sign?
 
 question: 
 - sign inquiry
-answer: sign I'm a and you are a.
+answer: Sign I'm a and you are a.
 
 question: 
 - status inquiry
@@ -200,27 +200,27 @@ answer: What is your current status?
 
 question: 
 - what is your first name
-answer: my first name is 
+answer: My first name is 
 
 question: 
 - what is your last name
-answer: my last name is 
+answer: My last name is 
 
 question: 
 - what is your middle name
-answer: my middle name is 
+answer: My middle name is 
 
 question: 
 - when is your birthday
-answer: my birthday is 
+answer: My birthday is 
 
 question: 
 - tell me about your mother
-answer: MY MOTHER 
+answer: My mother 
 
 question: 
 - tell me about your mother
-answer: MY MOTHER S 
+answer: My mother s 
 
 question: 
 - what is your favorite movie
@@ -228,11 +228,11 @@ answer: I would like to see it.
 
 question: 
 - what is your favorite color
-answer: my favorite color is 
+answer: My favorite color is 
 
 question: 
 - are you a man or a woman
-answer: woman Thanks for telling me your gender.
+answer: Woman thanks for telling me your gender.
 
 question: 
 - are you a man or a woman
@@ -248,5 +248,5 @@ answer: You must be very fond of it.
 
 question: 
 - what is your current status
-answer: Updating your status to \\.
+answer: Updating your status to .
 

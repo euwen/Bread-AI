@@ -15,3 +15,7 @@
 - Add 564 new dialogs
 - Add new Tag 'random'
 
+2017-07-28:
+- Version 1.0.4
+- Add 87326 new dialogs
+- Fix a bug of insert_data.py

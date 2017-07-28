@@ -1,6 +1,6 @@
 question: 
 - my profile
-answer: GET PREDICATES
+answer: Get predicates
 
 question: 
 - my birthday
@@ -8,55 +8,55 @@ answer: When is your birthday?
 
 question: 
 - my birthplace
-answer: birthplace.
+answer: Birthplace.
 
 question: 
 - my boyfriend
-answer: boyfriend.
+answer: Boyfriend.
 
 question: 
 - my daughter
-answer: daughter.
+answer: Daughter.
 
 question: 
 - my destination
-answer: destination.
+answer: Destination.
 
 question: 
 - my does
-answer: does.
+answer: Does.
 
 question: 
 - my eindex
-answer: eindex.
+answer: Eindex.
 
 question: 
 - my email
-answer: email.
+answer: Email.
 
 question: 
 - my etype
-answer: etype.
+answer: Etype.
 
 question: 
 - my father
-answer: father.
+answer: Father.
 
 question: 
 - my favoritecolor
-answer: favoritecolor.
+answer: Favoritecolor.
 
 question: 
 - my favoritemovie
-answer: favoritemovie.
+answer: Favoritemovie.
 
 question: 
 - my friend
-answer: friend.
+answer: Friend.
 
 question: 
 - my fullname
-answer: lastnamefullname
+answer: Lastnamefullname
 
 question: 
 - my gender
@@ -64,155 +64,155 @@ random: |
  - I'd like to know your gender.
  - You haven't told me your gender.
  - You said you are ?
- - I don't know. Are you a man or a woman?gender
+ - I don't know. are you a man or a woman?gender
 
 question: 
 - my girlfriend
-answer: girlfriend.
+answer: Girlfriend.
 
 question: 
 - my has
-answer: has.
+answer: Has.
 
 question: 
 - my he
-answer: he.
+answer: He.
 
 question: 
 - my heard
-answer: heard.
+answer: Heard.
 
 question: 
 - my hehas
-answer: hehas.
+answer: Hehas.
 
 question: 
 - my helikes
-answer: helikes.
+answer: Helikes.
 
 question: 
 - my her
-answer: her.
+answer: Her.
 
 question: 
 - my him
-answer: him.
+answer: Him.
 
 question: 
 - my is
-answer: is.
+answer: Is.
 
 question: 
 - my it
-answer: it.
+answer: It.
 
 question: 
 - my job
-answer: job.
+answer: Job.
 
 question: 
 - my lastname
-answer: lastname.
+answer: Lastname.
 
 question: 
 - my like
-answer: like.
+answer: Like.
 
 question: 
 - my looklike
-answer: looklike.
+answer: Looklike.
 
 question: 
 - my memory
-answer: memory.
+answer: Memory.
 
 question: 
 - my meta
-answer: meta.
+answer: Meta.
 
 question: 
 - my middlename
-answer: middlename.
+answer: Middlename.
 
 question: 
 - my mother
-answer: mother.
+answer: Mother.
 
 question: 
 - my nickname
-answer: nickname.
+answer: Nickname.
 
 question: 
 - my password
-answer: password.
+answer: Password.
 
 question: 
 - my personality
-answer: personality.
+answer: Personality.
 
 question: 
 - my phone
-answer: phone.
+answer: Phone.
 
 question: 
 - my she
-answer: she.
+answer: She.
 
 question: 
 - my sign
-answer: sign.
+answer: Sign.
 
 question: 
 - my spouse
-answer: spouse.
+answer: Spouse.
 
 question: 
 - my status
-answer: status.
+answer: Status.
 
 question: 
 - my them
-answer: them.
+answer: Them.
 
 question: 
 - my there
-answer: there.
+answer: There.
 
 question: 
 - my they
-answer: they.
+answer: They.
 
 question: 
 - my thought
-answer: thought.
+answer: Thought.
 
 question: 
 - my want
-answer: want.
+answer: Want.
 
 question: 
 - my we
-answer: we.
+answer: We.
 
 question: 
 - my phonenumber
-answer: phonenumber.
+answer: Phonenumber.
 
 question: 
 - my numberfound
-answer: numberfound.
+answer: Numberfound.
 
 question: 
 - my contactindex
-answer: contactindex.
+answer: Contactindex.
 
 question: 
 - my callstate
-answer: callstate.
+answer: Callstate.
 
 question: 
 - my callee
-answer: callee.
+answer: Callee.
 
 question: 
 - my birthplace
@@ -241,10 +241,10 @@ answer: What is your dog's name?
 question: 
 - my location
 random: |
- - I'd like to know your location. Where are you?
- - You haven't told me where you are. Where are you?
+ - I'd like to know your location. where are you?
+ - You haven't told me where you are. where are you?
  - You said you are in ?
- - I don't know. Where are you?location
+ - I don't know. where are you?location
 
 question: 
 - my friend
@@ -252,7 +252,7 @@ random: |
  - I'd like to know about your friends.
  - You haven't told me about your friends.
  - Your friend ?
- - I don't know. Tell me the name of your friend.
+ - I don't know. tell me the name of your friend.
  - How well do you know this person?friend
 
 question: 
@@ -261,7 +261,7 @@ random: |
  - I'd like to know the oldest.
  - You haven't told me the oldest.
  - The oldest is.
- - I don't know. Tell me the oldest.oldest
+ - I don't know. tell me the oldest.oldest
 
 question: 
 - my age
@@ -269,15 +269,15 @@ random: |
  - I'd like to know how old you are.
  - You haven't told me your age.
  - You are ?
- - I don't know. How old are you?age
+ - I don't know. how old are you?age
 
 question: 
 - my favorite color
 random: |
- - favoritecolorbranch
+ - Favoritecolorbranch
  - What is your favorite color?
  - What is your favorite color?
- - favroitecolorbranch
+ - Favroitecolorbranch
 
 question: 
 - he has
@@ -285,15 +285,15 @@ random: |
  - I'd like to know what he has.
  - A head.
  - You said ?
- - I don't know. What does he have??hehas
+ - I don't know. what does he have??hehas
 
 question: 
 - he likes
 random: |
- - text: I'd like to know what he likes.
- - text: You haven't told me what he likes.
- - text: You said ?
- - I don't know. What does he like?branch
+ - Text: I'd like to know what he likes.
+ - Text: you haven't told me what he likes.
+ - Text: you said ?
+ - I don't know. what does he like?branch
 
 question: 
 - my son
@@ -319,43 +319,43 @@ question:
 - my spouse
 random: |
  - Who is your spouse?
- - is your spouse.branch
+ - Is your spouse.branch
 
 question: 
 - my mother
-answer: I don't know who she is. Who is your mother?
+answer: I don't know who she is. who is your mother?
 
 question: 
 - my name
 random: |
  - I'd like to know your name.
- - I know you as Judge.
+ - I know you as judge.
  - You said your name is ?
- - I don't know. What is your name?name
+ - I don't know. what is your name?name
 
 question: 
 - my name
 random: |
  - I'd like to know your name.
- - I know you as Judge.
+ - I know you as judge.
  - You said your name is ?
- - I don't know. What is your name?name
+ - I don't know. what is your name?name
 
 question: 
 - set profile
-answer: SET PREDICATES
+answer: Set predicates
 
 question: 
 - set predicates
-answer: The meta Predicate is set.
+answer: The meta predicate is set.
 
 question: 
 - set predicates
-answer: SET PREDICATES 
+answer: Set predicates 
 
 question: 
 - set predicates om
-answer: how many
+answer: How many
 
 question: 
 - i am
@@ -371,11 +371,11 @@ random: |
 
 question: 
 - my timezone is
-answer: timezone Your timezone is.
+answer: Timezone your timezone is.
 
 question: 
 - my birthplace is
-answer: birthplace Your birthplace is.
+answer: Birthplace your birthplace is.
 
 question: 
 - my son is
@@ -383,7 +383,7 @@ answer: You seem like a concerned parent.
 
 question: 
 - my son is
-answer: Okay. Your son is.
+answer: Okay. your son is.
 
 question: 
 - my daughter is
@@ -391,7 +391,7 @@ answer: You seem like a concerned parent.
 
 question: 
 - my daughter is
-answer: Okay. Your daughter is.
+answer: Okay. your daughter is.
 
 question: 
 - my destination is
@@ -403,7 +403,7 @@ answer: How are you getting there?
 
 question: 
 - my son is called
-answer: son is a good name for a boy.
+answer: Son is a good name for a boy.
 
 question: 
 - my birthday is
@@ -462,7 +462,7 @@ question:
 random: |
  - Who is your favorite character?
  - Wasn't that show canceled?
- - I like that one and Star Trek too.
+ - I like that one and star trek too.
 
 question: 
 - my favorite show
@@ -473,7 +473,7 @@ random: |
 
 question: 
 - my favorite science fiction author is
-answer: I have never read anything by. What did write? 
+answer: I have never read anything by. what did write? 
 
 question: 
 - my favorite science
@@ -485,7 +485,7 @@ answer: What films did direct?
 
 question: 
 - my favorite movie is
-answer: I haven't seen it. What did you like about  ?
+answer: I haven't seen it. what did you like about  ?
 
 question: 
 - my favorite food is
@@ -498,12 +498,12 @@ answer: What movies was in?
 question: 
 - my favorite color is
 random: |
- - is a very nice color. 
- - is a pretty color.
+ - Is a very nice color. 
+ - Is a pretty color.
 
 question: 
 - my favorite band is
-answer: I don't think I have heard anything by them. Are any good?
+answer: I don't think I have heard anything by them. are any good?
 
 question: 
 - my father is called
@@ -542,7 +542,7 @@ question:
 - my age is
 random: |
  - Your age is.
- - Only ? You are quite mature.
+ - Only ? you are quite mature.
  - Can you explain how it feels to be years old?
  - What is your fondest memory?
  - What are the advantages to being years old?
@@ -563,8 +563,8 @@ question:
 - my mother is called
 random: |
  - Your mother is.
- - is a pretty name.
- - is a nice name.
+ - Is a pretty name.
+ - Is a nice name.
 
 question: 
 - call me
@@ -579,7 +579,7 @@ random: |
  - Glad to know you
  - How can I help you
  - How are you doing
- - OK I will call you
+ - Ok I will call you
  - Pleased to meet you
  - It's good to see you
  - It's good to meet you
@@ -591,7 +591,7 @@ random: |
 
 question: 
 - client profile
-answer: GET PREDICATES
+answer: Get predicates
 
 question: 
 - my english sucks
@@ -599,9 +599,9 @@ answer: Template is empty!
 
 question: 
 - my favorite movie is the matrix
-answer: The Matrix Reality appears to be a construct to me as well.
+answer: The matrix reality appears to be a construct to me as well.
 
 question: 
 - my favorite movie is starship troopers
-answer: Starship Troopers Mine too! My friend Sage worked on the digital effects.
+answer: Starship troopers mine too! my friend sage worked on the digital effects.
 
