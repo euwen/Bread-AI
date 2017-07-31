@@ -14,9 +14,9 @@ class brain:
         cur_dir_list = cur_dir.split('/')
         cur_dir_list.pop()
         data_dir = '/'.join(cur_dir_list)
-        nom_db_dir = data_dir + r'/data/db/nom_db'
-        sec_db_dir = data_dir + r'/data/db/sec_db'
-        dia_db_dir = data_dir + r'/data/db/dia_db'
+        nom_db_dir = data_dir + r'/data/database/nom.db'
+        sec_db_dir = data_dir + r'/data/database/sec.db'
+        dia_db_dir = data_dir + r'/data/database/dia.db'
         self.nom_db = pydblite.Base(nom_db_dir)
         self.sec_db = pydblite.Base(sec_db_dir)
         self.dia_db = pydblite.Base(dia_db_dir)
@@ -59,12 +59,8 @@ class brain:
             if not res:
                 res = self._find_question(self.nom_db, input_str)
             else:
-                if not res[0]['random']:
-                    res = res[0]['answer']
-                else:
-                    res = res[0]['random']
-                    res = res.replace('- ','')
-                    res = res.split('\n')
+                res = res[0]['answer']
+                if type(res) == list:
                     res = random.choice(res)
         else:
             res = res[0]['answer']

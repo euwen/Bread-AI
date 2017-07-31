@@ -1,4 +1,4 @@
-# Bread-AI V1.0.5
+# Bread-AI V1.0.6
 
 ## Overview
 * Bread-AI is a pure-Python chatbot with artificial intelligence, based on WeChat platform, to help people live better. 
@@ -17,12 +17,7 @@
 * Run console.py to talk with Bread-AI.
 
 ## Add data
-* the data source files are yaml files stored in the data/yml folder.
-* There're 3 folders in yml: dia_yml, nom_yml, sec_yml.
- * dia_yml: used for dialogue, there is already a file in the folder, watch it.
- * nom_yml: used to store public content which everyone could see.
- * sec_yml: used to store private content which only super user could see.
-* After add yaml files in yml folder, execute insert_data.py to insert this yaml files to database that store in the db folder.
+* See the RAEDME file in data folder. 
 
 ## Add super user
 * Super user could get more server.

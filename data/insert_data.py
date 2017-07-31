@@ -11,7 +11,7 @@ def insert_to_db(db_name, data_dir):
     db = pydblite.Base(db_name)
     if db.exists():
         os.remove(db_name)
-    db.create('question', 'answer', 'random')
+    db.create('question', 'answer')
     # Read the yml files
     data_file_list = os.listdir(data_dir)
     for data_file in data_file_list:
@@ -27,22 +27,19 @@ def insert_to_db(db_name, data_dir):
                 dd = yaml.load(d)
                 print('\n[%s]\n%s' % (data_file, d))
                 if not dd: continue
-                for q in dd['question']:
-                    if 'answer' in dd:
-                        ans = dd['answer']
-                        if type(ans) == bool:
-                            print('\n[Error] Bool value\n[%s]\n%s' % (data_file, d))
-                            sys.exit(1)
-                        db.insert(question=q, answer=ans, random=None)
-                    elif 'random' in dd:
-                        db.insert(question=q, answer=None, random=dd['random'])
+                for q in dd['que']:
+                    ans = dd['ans']
+                    if type(ans) == bool:
+                        print('\n[Error] Bool value\n[%s]\n%s' % (data_file, d))
+                        sys.exit(1)
+                    db.insert(question=q, answer=ans)
         except:
             raise
     db.create_index('question')
     print(db_name, ' data insert OK!')
 
 if __name__ == '__main__':
-    insert_to_db(r'./db/nom_db', r'./yml/nom_yml/')
-    insert_to_db(r'./db/dia_db', r'./yml/dia_yml/')
-    insert_to_db(r'./db/sec_db', r'./yml/sec_yml/')
-    print('All Complete!')
+    insert_to_db(r'./database/nom.db', r'./yaml/nom/')
+    insert_to_db(r'./database/dia.db', r'./yaml/dia/')
+    insert_to_db(r'./database/sec.db', r'./yaml/sec/')
+    print('\n All Complete!')

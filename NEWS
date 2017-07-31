@@ -23,3 +23,9 @@
 2017-07-28:
 - Version 1.0.5
 - Fix the bug of bool value in data
+
+2017-07-31:
+- Version: 1.0.6
+- Rename yaml and database files
+- Merge random tag with answer tag
+- simplify question and answer tag names
